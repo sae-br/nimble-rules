@@ -38,5 +38,9 @@ def logout():
     return redirect(url_for("login"))
 
 if __name__ == "__main__":
-    app.run(debug=True, port=10000)
+    from waitress import serve
+    import os
+    port = int(os.environ.get("PORT", 10000))  # Render sets this PORT variable
+    serve(app, host="0.0.0.0", port=port)
+
 
