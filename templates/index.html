@@ -1,0 +1,92 @@
+<!-- templates/index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nimble 5e Rules Search</title>
+    <link rel="icon" href="{{ url_for('static', filename='favicon.png') }}">
+    <style>
+        body {
+            font-family: system-ui, sans-serif;
+            background: #f7f7f7;
+            padding: 2rem;
+            max-width: 900px;
+            margin: auto;
+        }
+        h1 {
+            color: #2c3e50;
+        }
+        form {
+            margin-bottom: 2rem;
+        }
+        input[type="text"] {
+            width: 80%;
+            padding: 0.5rem;
+            font-size: 1.1rem;
+        }
+        button {
+            padding: 0.5rem 1rem;
+            font-size: 1.1rem;
+            background: #3498db;
+            color: white;
+            border: none;
+            cursor: pointer;
+        }
+        .result {
+            background: white;
+            padding: 1rem;
+            margin-bottom: 1rem;
+            border-left: 5px solid #3498db;
+        }
+        .meta {
+            font-size: 0.9rem;
+            color: #555;
+            margin-bottom: 0.5rem;
+        }
+        .view-link {
+            font-size: 0.9rem;
+            margin-top: 0.5rem;
+            display: inline-block;
+        }
+        pre {
+            white-space: pre-wrap;
+            font-family: inherit;
+        }
+        span[style*="goldenrod"] {
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <h1>Nimble Rulebook Search</h1>
+    <form method="post">
+        <input type="text" name="query" placeholder="Type a rule or keyword..." value="{{ query }}" required>
+        <button type="submit">Search</button>
+    </form>
+
+    {% if results %}
+        <h2>Top Results:</h2>
+        {% for result in results %}
+        <div class="result">
+            <div class="meta">
+                <strong>{{ result.source }}</strong>, page {{ result.page }} &middot; Relevance score: {{ result.score }}
+            </div>
+            <pre>{{ result.highlighted_text|safe }}</pre>
+            <a class="view-link" href="{{ url_for('static', filename=result.source) }}#page={{ result.page }}" target="_blank">📖 View PDF to Page {{ result.page }}</a>
+        </div>
+        {% endfor %}
+    {% elif query %}
+        <p>No results found for "<strong>{{ query }}</strong>".</p>
+    {% endif %}
+    <footer style="margin-top: 4rem; font-size: 0.8rem; text-align: center; color: #888;">
+        <p>Site by Questadon.</p>
+        <p>All rulebook content belongs to <a href="https://www.nimblerpg.com" title="Nimble Co" target="_blank" style="color: #888;">Nimble Co.</a> and should be accessed only for personal reference after purchasing the official rulebooks.</p>
+        <p>
+            <a href="https://www.flaticon.com/free-icons/magic-book" title="magic book icons" target="_blank" style="color: #888;">
+                Magic book favicon created by Ayub Irawan - Flaticon
+            </a>
+        </p>
+    </footer>    
+</body>
+</html>

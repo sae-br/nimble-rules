@@ -1,0 +1,3482 @@
+[
+  {
+    "text": "Questions or Feedback? Visit NimbleRPG.com, \nor you can join the Nimble Discord server at \nNimbleRPG.com/discord or email Evan personally \nat evan@nimblerpg.com (I’d love to hear from you!).",
+    "page": 3,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Game Design and Art Direction: Evan Diaz.",
+    "page": 3,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Editing: Angela Lewis, Adam Dahlheim, Bill \nHanscom.",
+    "page": 3,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Special Thanks: Jelke Ludolphij, Ben Carter, Bran-\ndon Vassell, Tyler Mann, Bruno Botelho, Emanuele \nBrotti, Ross H. Brubaker, Graham Bucci, Devin Burke, \nMatthias Coym, Edward Dobbins, Charles “Chas” \nArchibald, JFleck, John Freymuth, Josh Eimer, \nKazok the Goblin, Kralic, Lewis Houlston, Lucas \nCurtis, Chris Rike, Chad Rockey, Matt Shiffler, Ryan \nShunk, SnuzyBear, Emil H. Andersen, Tiggs, Blue, \nand all of the Nimble Discord.",
+    "page": 3,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Inspired by: D&D 5th Edition, Paizo’s Pathfinder \n2e, Isaac Williams’ Mausritter, Chris McDowall’s \nInto the Odd, Ben Milton’s Knave, The Dungeon \nCoach’s DC20, Kobold Press’s Tales of the Valiant, \nYochai Gal’s Cairn, House DM, Matt Colville, and \nmany other long forgotten sources.",
+    "page": 3,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Artist Credits: Earl Lan, Justin Gerard, Justine Flo-\nrentino, Noah Bradley, Sean Simmons, Kiri Leonard, \nAshe Samuels, Chen Guixin, Alderdoodle, Anasta-\nsia Helter, Michelle Rea, Alexandra Petruk, Asanee, \nWarm_Tail, Lobard, Yuliya Pauliukevich, Merfin, \nPixode, Explorers Design, Carlos Eulefi, Saga Mack-\nenzie, Evan Diaz.",
+    "page": 3,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Cover Art: Earl Lan\nISBN: 979-8-9912696-1-2 Printed in China. \nCopyright © 2025 Nimble Co. All rights reserved.\nwww.nimbleRPG.com",
+    "page": 3,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "NIMBLE 3RD PARTY CREATOR LICENSE\nTerms. You may create and publish original works based on \nor compatible with Nimble (the 'System') without Nimble \nCo.'s prior approval and retain all profits.",
+    "page": 3,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "• You may use and reference this book’s text in your original",
+    "page": 3,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "products (adventures, classes, subclasses, monsters, \nsupplements, etc.). Copying large portions of text verbatim \nwith little or no added value does not qualify as an original \nproduct. For additional FAQ see nimbleRPG.com/creators.\n\t• You may not use the System’s art or logo but may use the",
+    "page": 3,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Nimble compatibility logo (nimbleRPG.com/creators).\nRestrictions. Your product must not appear to be an official \nNimble product or endorsed by Nimble Co. We are not liable \nfor claims related to your product, and you will not bring legal \nclaims against us. \nRights Reserved. Unless explicitly stated, this license does \nnot grant copyright, moral, publicity, privacy, patent, or trade-",
+    "page": 3,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "mark rights. All other rights are reserved by Nimble Co.\nLegal Terms. You agree to indemnify Nimble Co. and its \naffiliates from any claims or liabilities arising from your use \nof the System. This license may be terminated if you violate \nits terms. Upon termination, you must cease distribution \nof your product until the violation is resolved. This license \nis governed by Florida law. Disputes will be resolved in the \nU.S. District Court for the Middle District of Florida or state \ncourts in Orange County, Florida. If a provision of this license \nis unenforceable, it will be reformed or severed without affect-\ning the rest of the license. This license does not waive Nimble \nCo.’s legal privileges.\nRequired Attribution. Include in your product:\n \"[Product Name] is an independent product published under",
+    "page": 3,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "the Nimble 3rd Party Creator License and is not affiliated with \nNimble Co. Nimble © 2025 Nimble Co.\"",
+    "page": 3,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "This work includes material taken from the System Reference Document 5.1 (“SRD 5.1”) by Wizards of the Coast LLC and available at https://\ndnd.wizards.com/resources/systems-reference-document. The SRD 5.1 is licensed under the Creative Commons Attribution 4.0 International",
+    "page": 4,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "License available at https://creativecommons.org/licenses/by/4.0/legalcode.",
+    "page": 4,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "ere there be heroes… where dragons soar and \nshadows gather, where ancient powers slum-\nber and new threats arise, the call to adventure \nresounds. Here, legends are born in the clash of steel, the \nflash of spells, and the struggle between light and darkness.",
+    "page": 4,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Choose your path. Wield your power. The world awaits its",
+    "page": 4,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "If you’re new to Nimble, we recommend starting with the Core Rules book or choosing a pre-",
+    "page": 4,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "made hero. When you’re ready to create your own hero, this is where you’ll find them.",
+    "page": 4,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "BERSERKER P. 6\nAn unstoppable force of wrath and ruin. Choose between \nthe frenzied Path of the Red Mist and the indomitable Path \nof the Mountainheart. Class Complexity: ♦ ♦",
+    "page": 5,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "THE CHEAT P. 12\nA sneaky, backstabbing, dirty-fighting rogue. Choose \nbetween the murderous Silent Blade or the trickster \nScoundrel. Class Complexity: ♦",
+    "page": 5,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "COMMANDER P. 18\nA battlefield tactician, leader, and weapon master. Choose \nbetween the relentless Vanguard and the unassailable \nBulwark. Class Complexity: ♦ ♦",
+    "page": 5,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "HUNTER P. 24\nResourceful survivalist, bowmaster, and skilled tracker. \nChoose between the unshakable Shadowpath and the \nresourceful Wild Heart. Class Complexity: ♦ ♦",
+    "page": 5,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "MAGE P. 30\nWield and shape the elements of fire, ice, and lightning. \nChoose between the madness of Chaos and the structure \nof Control. Class Complexity: ♦ ♦ ♦",
+    "page": 5,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "OATHSWORN P. 36\nFaithful guardian, protector, and avenger of the weak. \nChoose between the merciless Oath of Vengeance and \nthe vigilant Oath of Refuge. Class Complexity: ♦ ♦",
+    "page": 5,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "SHADOWMANCER P. 42\nSummon hordes of expendable shadow minions. Choose \nbetween the Pact of the Red Dragon and the Pact of the \nAbyssal Depths. Class Complexity: ♦ ♦ ♦",
+    "page": 6,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "SHEPHERD P. 48\nMaster life and death. Lead a faithful companion. Choose \nbetween the nurturing Luminary of Mercy and the ruinous \nLuminary of Malice. Class Complexity: ♦ ♦",
+    "page": 6,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "SONGWEAVER P. 54\nInspiring presence, sharp wit, sharper tongue. Choose \nbetween the Herald of Snark and the Herald of Courage. \nClass Complexity: ♦ ♦ ♦",
+    "page": 6,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "STORMSHIFTER P. 60\nMaster of beast and nature. Choose between the bestial Circle \nof Fang & Claw and the tempestuous Circle of Storm & Sky. \nClass Complexity: ♦ ♦ ♦",
+    "page": 6,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "ZEPHYR P. 66\nA disciplined martial artist with swift hands and swift \nfeet. Choose between the explosive Way of Flame and the \ndisciplined Way of Pain. Class Complexity: ♦ ♦",
+    "page": 6,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "EXTRA SUBCLASSES P. 73\nSpecial subclasses to choose at pivotal moments in a story: \nOathsworn (Oathbreaker), Commander (Spellblade), Shadow-\nmancer (Reaver), and Hunter (Beastmaster). \nSubclass Complexity: ♦ ♦ ♦",
+    "page": 6,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "rath and Ruin. The Berserker is destruction. He knows not fatigue nor \ncaution—both surely driven away from him in a relentless fury. Those \nof barbaric nature are said to eat only the dust of war and drink naught \nbut the blood of those felled by their own hand.",
+    "page": 8,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Death is no stranger, for it is said that even death fears to take a Berserker before his \nbattle Rage is satiated. Once a Berserker has begun to fight, he only grows stronger, \nfueled by battle-lust and an unending Rage. The deadliest among them is not the well-\nrested, but those who are pushed to the brink through combat. It matters not what a \nBerserker takes up, be it axe or sword; flesh will be hewn from bone and heads from \nshoulders. Many have caved under the Berserker’s primal might—sword and spell are \nbut straw in the wake of unbridled Rage. As a Berserker, you can:",
+    "page": 8,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "•Become a raging, damage-dealing machine. Greet death as an old friend and",
+    "page": 8,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "•Increase your damage to unbelievable levels. The longer a fight goes on, the",
+    "page": 8,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "more your Rage intensifies, allowing you to deal out incredible amounts of brutality.",
+    "page": 8,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "•Use your Savage Arsenal. Choose abilities to crush your foes and laugh in the",
+    "page": 8,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Key Stats: STR, DEX   Hit Die: 1d12   Starting HP: 20   \nSaves: STR+, INT–   Armor: None   Weapons: all STR weapons",
+    "page": 9,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Starting Gear: Battleaxe, Rations (meat), Rope (50 ft.)",
+    "page": 9,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 1\t\nRage. (1/turn) Action: Roll a Fury Die (1d4) and set it aside. Add it to every STR attack you \nmake. You can have a max of KEY Fury Dice; they are lost when your Rage ends.\n\t\nThat all you got?! When you are attacked, you may expend 1 or more Fury Dice to reduce \nthe damage taken by STR+DEX for each die spent.",
+    "page": 9,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Your Rage Ends... If you leave combat, drop to 0 HP, or go 1 round without attacking or Raging.",
+    "page": 9,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Yes! You can Rage and gain another Fury Die even if you are already Raging. If you are already at your max, roll as \nnormal and decide which ones to keep. Your Fury Dice are dice when calculating damage for monster armor.",
+    "page": 9,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 2\t\nIntensifying Fury. If you are Raging at the beginning of your turn, roll 1 Fury Die for free. \n\t\nOne with the Ancients. (1/Safe Rest) When faced with a decision about which direction \nor course of action to take, you can call upon your ancestors to guide you toward the most \ndangerous or challenging path.",
+    "page": 9,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 3\t\nSubclass. Choose a Berserker subclass.\n\t\nBloodlust. Expend 1 or more Fury Dice on your turn, move DEX spaces per die spent for free.",
+    "page": 9,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 4\t\nEnduring Rage. While Dying, you Rage automatically for free at the beginning of your turn, \nhave a max of 2 actions instead of 1, and ignore the STR saves to make attacks.\n\t\nKey Stat Increase. +1 STR or DEX.\n\t\nSavage Arsenal. Choose 1 ability from the Savage Arsenal.",
+    "page": 9,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Wrath & Ruin. Whenever you perform a notable act of destruction or feat of strength during a Safe Rest, you may \nchoose different Berserker options available to you.",
+    "page": 9,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 5\t\nRage (2). Whenever you Rage, gain 2 Fury Dice instead.\n\t\nSecondary Stat Increase. +1 INT or WIL.",
+    "page": 10,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 6\t\nSavage Arsenal (2). Choose a 2nd Savage Arsenal ability.\n\t\nIntensifying Fury (2). Your Fury Dice are now d6s.",
+    "page": 10,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 7\t\nSubclass. Gain your Berserker subclass feature.",
+    "page": 10,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 8\t\nSavage Arsenal (3). Choose a 3rd Savage Arsenal ability.\n\t\nKey Stat Increase. +1 STR or DEX.",
+    "page": 10,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 9\t\nIntensifying Fury (3). Your Fury Dice are now d8s.\n\t\nSecondary Stat Increase. +1 INT or WIL.",
+    "page": 10,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 10\t Savage Arsenal (4). Choose a 4th Savage Arsenal ability.\n\t\n\t\nLEVEL 11\t Subclass. Gain your Berserker subclass feature.",
+    "page": 10,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 12\t Savage Arsenal (5). Choose a 5th Savage Arsenal ability.\n\t\nKey Stat Increase. +1 STR or DEX.",
+    "page": 10,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 13\t Intensifying Fury (4). Your Fury Dice are now d10s.\n\t\nSecondary Stat Increase. +1 INT or WIL.",
+    "page": 10,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 14\t Savage Arsenal (6). Choose a 6th Savage Arsenal ability.",
+    "page": 10,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 15\t Subclass. Gain your Berserker subclass feature.",
+    "page": 10,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 16\t Savage Arsenal (7). Choose a 7th Savage Arsenal ability.\n\t\nKey Stat Increase. +1 STR or DEX.",
+    "page": 10,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 17\t Intensifying Fury (5). Your Fury Dice are now d12s.\n\t\nSecondary Stat Increase. +1 INT or WIL.",
+    "page": 10,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 18\t DEEP RAGE. Dropping to 0 HP does not cause your Rage to end.",
+    "page": 10,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 19\t Epic Boon. Choose an Epic Boon (see pg. 23 of the GM's Guide).",
+    "page": 10,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 20\t BOUNDLESS RAGE. +1 to any 2 of your stats. Anytime you roll less than 6 on a Fury Die,",
+    "page": 10,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Death Blow. After you deal damage from a crit, you \nmay expend any number of Fury Dice. Sum the dice \nand deal double that amount of damage.",
+    "page": 11,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Deathless Rage. (1/turn) While Dying, you may \nsuffer 1 Wound to gain 1 action.",
+    "page": 11,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Eager for Battle. Gain advantage on Initiative. \nMove 2×DEX spaces for free on your first turn each \nencounter.",
+    "page": 11,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Into the Fray. Action: Leap up to 2×DEX spaces \ntoward an enemy. If you land adjacent to at least 2 \nenemies, make an attack against 1 of them for free.",
+    "page": 11,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Mighty Endurance. You can now survive an \nadditional 4 Wounds before death.",
+    "page": 11,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "MORE BLOOD! Whenever an enemy crits you, gain \n1 Fury Die.",
+    "page": 11,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Rampage. (1/ turn) After you land a hit, you may",
+    "page": 11,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "treat your next attack this turn as if you rolled that \nsame amount instead of rolling again.",
+    "page": 11,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Swift Fury. Whenever you gain one or more Fury \nDice, move up to DEX spaces for free, ignoring \ndifficult terrain.",
+    "page": 11,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Thunderous Steps. After moving at least 4 spaces \nwhile Raging, you may deal STR Bludgeoning \ndamage to all adjacent creatures where you stop.",
+    "page": 11,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Unstoppable Force. While Dying and Raging, \ntaking damage causes 1 Wound (instead of 2) and \ncritical hits inflict 2 Wounds (instead of 3).",
+    "page": 11,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Whirlwind. 2 actions: Attack ALL targets within \nyour melee weapon’s reach.",
+    "page": 11,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "You’re Next! Action: While Raging, you can make \na Might skill check to demoralize an enemy within \nReach 12 (DC: their current HP). On a success, they \nimmediately flee the battle.",
+    "page": 11,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Wrath & Ruin. Whenever you perform a notable act of destruction or feat of strength during a Safe Rest, you may",
+    "page": 11,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "choose different Berserker options available to you.",
+    "page": 11,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 3\t\nStone’s Resilience. Whenever you expend Fury Dice to reduce incoming damage, add \nthe value of the die to the amount reduced.\n\t\nMountainous Tenacity. Whenever you expend your Hit Dice to recover HP, for every 10 \nHP you would recover, you may heal 1 Wound instead.",
+    "page": 12,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 7\t\nUnbreakable. (1/encounter) While Raging, if you would suffer your last Wound or other \nnegative condition of your choice, you don’t.",
+    "page": 12,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 11\t Titan’s Fury. After you miss an attack or are crit by an enemy, Rage for free.",
+    "page": 12,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 15\t Mountain’s Endurance. While Dying, if an attack against you would be a crit, the attack",
+    "page": 12,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "is rerolled instead (when-crit abilities, such as Titan’s Fury, still trigger).",
+    "page": 12,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 3\t\nBlood Frenzy. (1/turn) While Raging, whenever you crit or kill an enemy, change 1 Fury \nDie to the maximum.\n\t\nSavage Awareness. Advantage on Perception checks to notice or track down blood. \nBlindsight 2 while Raging: you ignore the Blinded condition and can see through darkness \nand Invisibility within that Range.",
+    "page": 12,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 7\t\nUnstoppable Brutality. While Raging, you may gain 1 Wound to reroll any attack or \nsave.",
+    "page": 12,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 11\t Opportunistic Frenzy. While Raging, you can make opportunity attacks without disad-",
+    "page": 12,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "vantage, and you may make them whenever an enemy enters your melee weapon’s reach.",
+    "page": 12,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 15\t Onslaught. While Raging, gain +2 speed. (1/round) you may move for free.",
+    "page": 12,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "loak and dagger… and dagger. The common Cheat doesn’t call herself a \nCheat, of course—rather, a streetsmart rogue, a survivalist, or a liberator \nof unused goods. They are masters of stealth, pickpocketing, and smooth \ntalking. Some of the more vicious ilk are masters of death-dealing as well.",
+    "page": 14,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Cheats can be found in every city and byway under countless different names, but \nthey all believe something similar: It’s a cruel, merciless world, and those who aim to \nsurvive don’t have time for silly things like “morals” or “honor.” Those are luxuries of \nthe rich and powerful. Honor gets you killed—survival is about taking what you want, \nwhen you can. As The Cheat, you can:",
+    "page": 14,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "•Break the rules! You can change the dice you roll to whatever numbers suit",
+    "page": 14,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "•Sneak in and backstab enemies with devastating critical hits, taking down even",
+    "page": 14,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "huge, heavily–armored foes with a single blow!",
+    "page": 14,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "•Fight dirty with pocket sand, low blows, and vicious blades. When things get out of",
+    "page": 14,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "hand, disappear into the night, and live to cheat another day!",
+    "page": 14,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Key Stats: DEX, INT   Hit Die: 1d6   Starting HP: 10\nSaves: DEX+, WIL–   Armor: Leather Armor   Weapons: DEX Weapons",
+    "page": 15,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Starting Gear: 2 Daggers, Sling, Cheap Hides, Chalk",
+    "page": 15,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 1\t\nSneak Attack. (1/turn) When you crit, deal +1d6 damage.\n\t\nVicious Opportunist. (1/turn) When you hit a Distracted target with a melee attack, you may \nchange the Primary Die roll to whatever you like (changing it to the max value counts as a crit).",
+    "page": 15,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Distracted. A target is Distracted if it is adjacent to or Taunted by an ally, or if it cannot see you.",
+    "page": 15,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 2\t\nCheat. You’re a well–rounded cheater. Gain the following abilities:",
+    "page": 15,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "• (1/round) You may either Move or Hide for free.\n\t• (1/day) You may change any skill check to 10+INT. \n\t• If you roll less than 10 on Initiative, you may change it to 10 instead. \n\t• You may gain advantage on skill checks while playing any games, competitions, or",
+    "page": 15,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Magic? The Cheat has some abilities that look magical—they might be, but don’t have to be. You have your ways, \nokay? No need to explain how you did that, not even to the GM!",
+    "page": 15,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 3\t\nSubclass. Choose a Cheat subclass.\n\t\nSneak Attack (2). Your Sneak Attack becomes 1d8.\n\t\nThieves’ Cant. You learn the secret language of rogues and scoundrels.",
+    "page": 15,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 4\t\nKey Stat Increase. +1 DEX or INT. \n\t\nUnderhanded Ability. Choose an Underhanded Ability.",
+    "page": 15,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Trade Secrets. Whenever you spend a night talking shop with other roguish types during a Safe Rest,  you may \nchoose different Cheat options available to you.",
+    "page": 15,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 5\t\nTwist the Blade. Action: Change one of your Sneak Attack dice to whatever you like.\n\t\nQuick Read.",
+    "page": 16,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "•\t (1/encounter) Gain advantage on an Assess check. \n•\t (1/day) Gain advantage on an Examination check.\n\t\nSecondary Stat Increase. +1 WIL or STR.",
+    "page": 16,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 6\t\nUnderhanded Ability (2). Choose a 2nd Underhanded Ability.\n\t\nTHAT'S Not What Happened! (1/Safe Rest) Action: After a Distracted enemy attacks you, \nyou may change the Primary Die roll to whatever you like (changing the die to the minimum \nvalue counts as a miss).",
+    "page": 16,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 7\t\nSubclass. Gain your Cheat subclass feature.\n\t\nSneak Attack (3). Your Sneak Attack becomes 2d8.",
+    "page": 16,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 8\t\nUnderhanded Ability (3). Choose a 3rd Underhanded Ability.\n\t\nKey Stat Increase. +1 DEX or INT.",
+    "page": 16,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 9\t\nSneak Attack (4). Your Sneak Attack becomes 2d10.\n\t\nSecondary Stat Increase. +1 WIL or STR.",
+    "page": 16,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 10\t Underhanded Ability (4). Choose a 4th Underhanded Ability.",
+    "page": 16,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 11\t Subclass. Gain your Cheat subclass feature.\n\t\nSneak Attack (5). Your Sneak Attack becomes 2d12.",
+    "page": 16,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 12\t Underhanded Ability (5). Choose a 5th Underhanded Ability.\n\t\nKey Stat Increase. +1 DEX or INT.",
+    "page": 16,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 13\t Twist the Blade (2). (1/turn) You can Twist the Blade for free.\n\t\nSecondary Stat Increase. +1 WIL or STR",
+    "page": 16,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 14\t Underhanded Ability (6). Choose a 6th Underhanded Ability.",
+    "page": 16,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 15\t Subclass. Gain your Cheat subclass feature.\n\t\nSneak Attack (6). Your Sneak Attack becomes 2d20.",
+    "page": 16,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 16\t Underhanded Ability (7). Choose a 7th Underhanded Ability.\n\t\nKey Stat Increase. +1 DEX or INT.",
+    "page": 16,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 17\t Sneak Attack (7). Your Sneak Attack becomes 3d20.\n\t\nSecondary Stat Increase. +1 WIL or STR.",
+    "page": 16,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 18\t Underhanded Ability (8). Choose an 8th Underhanded Ability.",
+    "page": 16,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 19\t  Epic Boon. Choose an Epic Boon (see pg. 23 of the GM's Guide).",
+    "page": 16,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 20\t Supreme Execution. +1 to any 2 of your stats. When you attack with a blade, you do not",
+    "page": 16,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "require targets to be Distracted to trigger Vicious Opportunist.",
+    "page": 16,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "“Creative\" Accounting. Steal up to INT actions \nfrom your next turn (Gain up to INT actions now. \nThe next time you would gain actions, subtract the \nnumber stolen). You cannot use this 2 turns in a row.",
+    "page": 17,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Exploit Weakness. Action: Make a contested INT \ncheck against an enemy. If you win, you can use \nVicious Opportunist against them, even if they are \nnot Distracted. This lasts for 1 minute or until you \nuse this ability against another target.",
+    "page": 17,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Feinting Attack. If you miss for the 2nd time in a \nsingle round, you may change the primary die roll \nto any result instead.",
+    "page": 17,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "How’d YOU get here?! 2 actions: “Teleport” up to \n4 spaces away, adjacent to a Distracted target, and \nmake a melee attack against them. If you crit, you \nmay \"teleport\" again.",
+    "page": 17,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "I’m Outta Here! When an ally within 4 spaces is \ncrit, you may turn invisible until the end of your next",
+    "page": 17,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "turn and then move up to half your speed for free.",
+    "page": 17,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Misdirection. Gain INT armor. Whenever you \nDefend, you may halve the damage instead.",
+    "page": 17,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Steal Tempo. When you land a critical hit for the \nsecond time on a turn, your target loses 1 action and \nyou gain 1 action.",
+    "page": 17,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Sunder Armor (Medium). Action: When you crit \nan enemy with medium armor, sunder their armor. \nUntil the start of your next turn, ALL melee attacks \nagainst that target ignore its armor.",
+    "page": 17,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Sunder Armor (Heavy). Req. Sunder Armor \n(Medium). Your Sunder Armor ability now also \napplies to enemies wearing heavy armor.",
+    "page": 17,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Trickshot. When you throw a dagger, it returns \nback to your hand at the end of your turn. On a hit, \nit ricochets to another creature within 2 spaces, \ndealing half as much damage to them.",
+    "page": 17,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Trade Secrets. Whenever you spend a night talking shop with other roguish types during a Safe Rest, you may",
+    "page": 17,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "choose different Cheat options available to you.",
+    "page": 17,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 3\t\nAmidst All This Commotion… If a creature dies while you Sneak Attack them, you may \nturn Invisible until you attack again or until the beginning of your next turn.\n\t\nLeave No Trace. Advantage on Stealth checks when you are at full health.",
+    "page": 18,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 7\t\nCunning Strike. (2/encounter) When you land a Sneak Attack, you may force the target \nto make a STR save (DC 10+INT). On a failure, instead of rolling your Sneak Attack dice, \nthey deal the maximum amount of damage (if your target saves, regain 1 use).",
+    "page": 18,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 11\t Professional Skulker. Gain a climbing speed and advantage on Stealth checks (replaces",
+    "page": 18,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 15\t KILL. When you crit an enemy with fewer max HP than you, it dies.",
+    "page": 18,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 3\t\nLow Blow. When you Sneak Attack, you may spend 2 additional actions to Incapacitate \nyour target for their next turn on a failed STR save (DC 10+INT). Save or fail, they are Taunted \nby you until you drop to 0 HP.\n\t\nSweet Talk. You may gain advantage on all Influence checks with NPCs you’ve just met",
+    "page": 18,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "for the first time. This lasts until you fail an Influence check with them or until you meet a \n2nd time. You have disadvantage on Influence checks with them after you use this ability \n(until you get back on their good side).",
+    "page": 18,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 7\t\nPocket Sand. (2/encounter—you’ve got to collect more sand!) When you Defend against \na melee attack, Blind the attacker until the start of their next turn and force them to reroll \nthe attack (Blinded creatures attack with disadvantage).",
+    "page": 18,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 11\t Escape Plan. (1/Safe Rest) When you would drop to 0 HP or gain a Wound, you don’t.",
+    "page": 18,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Instead, you turn Invisible for 1 minute or until you attack.",
+    "page": 18,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 15\t Heads I Win, Tails You Lose. (1/encounter) Attacks you make this round don’t miss, you",
+    "page": 18,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "crit on 1 less than normally needed, and you gain LVL temp HP.",
+    "page": 18,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "oldier… Warrior… Fearless Leader. Among the most skilled soldiers in the \nworld, Commanders are masters of every weapon and form of close combat. \nA small cohort of soldiers led by a trained Commander is more feared than \ninnumerable legions without one.",
+    "page": 20,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "An “empire” isn’t an Empire until they have their own academy of command: Famed \nschools where these supremely capable soldiers are trained in battlefield tactics and \nleadership. Commanders are defined by their:",
+    "page": 20,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "•Tactical Commands. Issue powerful orders to your allies, bolstering their abilities,",
+    "page": 20,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "and coordinate devastating strikes among yourselves. Command the battlefield with \nprecision and skill, turning the tide of any battle in your favor.",
+    "page": 20,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "•Weapon Mastery. Exert mastery over all weapon types, wielding them with deadly",
+    "page": 20,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "efficiency. Your versatility ensures victory against any foe.",
+    "page": 20,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "•Strategic Leadership. Exploit your tactical prowess to outwit and outmaneuver",
+    "page": 20,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "foes, leading your party to triumph through cunning strategy and decisive action.",
+    "page": 20,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Key Stats: STR, INT   Hit Die: 1d10   Starting HP: 17   \nSaves: STR+, DEX–   Armor: Mail Armor, Shields   Weapons: All Martial Weapons",
+    "page": 21,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Starting Gear: Short Sword, Javelins, Rusty Mail",
+    "page": 21,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 1\t\nCoordinated Strike! Gain the Coordinated Strike! Commander's Order.",
+    "page": 21,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 2\t\nCommander’s Orders. Choose 2 Commander’s Orders.\n\t\nField Medic. Roll 1 additional die for any health potion you administer. Whenever you or an \nally spends any number of Hit Dice to recover HP, if you spent at least ten minutes examining \ntheir wounds, they can add your Examination bonus to the HP recovered.",
+    "page": 21,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 3\t\nSubclass. Choose a Commander subclass.",
+    "page": 21,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 4\t\nFit for Any Battlefield. Choose a Combat Tactic. When you roll Initiative, gain STR Combat \nDice, each a d6. (1/attack) You may expend a Combat Die to perform a special maneuver. \nCombat Dice are lost when combat ends.\n\t\nKey Stat Increase. +1 STR or INT.",
+    "page": 21,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Rigorous Training. Whenever you train with your party or other soldiers during a Safe Rest, you may choose different \nCommander options available to you.",
+    "page": 21,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 5\t\nMaster Commander. When you roll Initiative, regain 1 spent use of Coordinated Strike (it \nis lost if not spent during that encounter). Attacks made from your Coordinated Strikes also \nnow ignore disadvantage.\n\t\nCombat Tactics. Your Combat Dice are now d8s.\n\t\nSecondary Stat Increase. +1 DEX or WIL.",
+    "page": 21,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 6\t\nFit for Any Battlefield (2). Choose another Combat Ability or gain +1 max Combat Dice.\n\t\nWeapon Mastery. You may sheathe a weapon and draw a different one 2×/round for free. \nChoose a weapon type to specialize in.",
+    "page": 21,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 7\t\nSubclass. Gain your Commander subclass feature.",
+    "page": 22,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 8\t\nFit for Any Battlefield (3). Choose another Combat Ability or gain +1 max Combat Dice. \n\t\nKey Stat Increase. +1 STR or INT.",
+    "page": 22,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 9\t\nMaster Commander (2). +1 use of Coordinated Strike/Safe Rest.\n\t\nCombat Tactics (2). Your Combat Dice are now d10s.\n\t\nSecondary Stat Increase. +1 DEX or WIL.",
+    "page": 22,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 10\t Fit for Any Battlefield (4). Choose another Combat Ability or gain +1 max Combat Dice.\n\t\nWeapon Mastery (2). Choose a 2nd weapon type to specialize in.",
+    "page": 22,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 11\t Subclass. Gain your Commander subclass feature.",
+    "page": 22,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 12\t Fit for Any Battlefield (5).  Choose another Combat Ability or gain +1 max Combat Dice.\n\t\nKey Stat Increase. +1 STR or INT.",
+    "page": 22,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 13\t Master Commander (3). +1 use of Coordinated Strike/Safe Rest. \n\t\nCombat Tactics (3). Your Combat Dice are now d12s.\n\t\nSecondary Stat Increase. +1 DEX or WIL.",
+    "page": 22,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 14\t Weapon Mastery (3). You have complete mastery of all weapon types.",
+    "page": 22,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 15\t Subclass. Gain your Commander subclass feature.",
+    "page": 22,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 16\t Fit for Any Battlefield (6).  Choose another Combat Ability or gain +1 max Combat Dice.\n\t\nKey Stat Increase. +1 STR or INT.",
+    "page": 22,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 17\t Master Commander (4). +1 use of Coordinated Strike/Safe Rest.\n\t\nCombat Tactics (4). Your Combat Dice are now d20s.\n\t\nSecondary Stat Increase. +1 DEX or WIL.",
+    "page": 22,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 18\t Unparalleled Tactics. The first time each encounter you use Coordinated Strike, an ally who",
+    "page": 22,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "can hear you also gains 1 action to use on their next turn.",
+    "page": 22,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 19\t Epic Boon. Choose an Epic Boon (see pg. 23 of the GM's Guide).",
+    "page": 22,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 20\t Captain of Legions. +1 to any 2 of your stats. The first time each encounter you use Coor-",
+    "page": 22,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "dinated Strike, EVERY ally within 12 spaces gains +1 action (replaces Unparalleled Tactics).",
+    "page": 22,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Coordinated Strike! (1/round) Free action: \nyou and an ally within 6 spaces both immedi-\nately make a weapon attack or cast a cantrip for \nfree. You can do this INT times/Safe Rest.",
+    "page": 23,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Face Me! Reaction (after an ally is crit within \n12 spaces): Taunt that enemy until you drop \nto 0 HP.",
+    "page": 23,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Hold the Line! (1/encounter) Reaction (when \nan ally drops to 0 HP): Command them to con-\ntinue the fight! Set their HP to 3× your LVL.",
+    "page": 23,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "I Can Do This ALL DAY! (1/encounter) Reac-\ntion (when you would drop to 0 HP): You may \nexpend any number of Hit Dice and set your HP \nto the sum rolled instead (do not add your STR).",
+    "page": 23,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Move it! Move it! When you roll Initiative you \nmay give yourself and an ally advantage on the \nroll and +3 speed for 1 round.",
+    "page": 23,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Reposition! Action/Reaction (on an ally’s \nturn): Command 1 ally to move up to their \nspeed (or 2 allies up to half their speed) for free.",
+    "page": 23,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "1/attack, you can expend a Combat Die to add one of the \nfollowing effects to your attack.",
+    "page": 23,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Commanding Presence. Action: Shout a command \nup to 2 words long at an enemy. On a failed WIL save \n(DC 10+STR), they must spend their entire next turn \nobeying it to the best of their ability, provided it is not \nobviously harmful to themselves. They then become \nimmune to this effect for 1 day.",
+    "page": 23,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Heavy Strike. When you hit, push a Medium creature \nSTR spaces and deal extra damage equal to a roll of your \nCombat Die. A Small creature is pushed twice as far; \nLarge, pushed half as far (round down).",
+    "page": 23,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Inerrant Strike. Reroll a missed attack, add 1 to the \nPrimary Die, and deal extra damage equal to a roll of \nyour Combat Die.",
+    "page": 23,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Lunging Strike. Gain +1 Reach on an attack and deal \nextra damage equal to 2× a roll of your Combat Die.",
+    "page": 23,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Sweeping Strike. 2 actions: Select any contiguous \narea within your weapon’s Reach and damage ALL tar-\ngets there. This attack does not miss on a 1.",
+    "page": 23,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "slashing weapons cannot \nmiss unarmored enemies.",
+    "page": 23,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Rigorous Training. Whenever you train with your party or other soldiers during a Safe",
+    "page": 23,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Rest, you may choose different Commander options available to you.",
+    "page": 23,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Choose a weapon mastery at levels 6, 10, and 14:",
+    "page": 23,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 3\t\nArmor Master. You are proficient with plate armor.\n\t\nShield Expert. While wearing a shield, you may Defend 2× each round. The first time each \nround you block all of the damage from an attack, you may make an opportunity attack against \nthe attacker for free.",
+    "page": 24,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 7\t\nJuggernaut. When you use Coordinated Strike, you deal extra damage equal to your armor, \nand you can add 1 to your primary die.",
+    "page": 24,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 11\t Taunting Strike. (1/turn) You may Taunt a creature you hit until the end of their next turn.",
+    "page": 24,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 15\t Shield Wall. Allies within 2 spaces gain ALL the benefits of the shield you have equipped.",
+    "page": 24,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 3\t\nAdvance! (1/round) After you move toward an enemy, gain advantage on the first melee \nattack you make against it. When you use your Coordinated Strike, you and all allies within \n12 spaces can first move up to half their speed for free.",
+    "page": 24,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 7\t\nExperienced Commander. Your Coordinated Strike may target 1 additional ally. Gain +1 \nuse of Coordinated Strike/Safe Rest.",
+    "page": 24,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 11\t Survey the Battlefield. When you roll Initiative, regain 1 use of Coordinated Strike. +1",
+    "page": 24,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 15\t As One! Attacks made with your Coordinated Strike also grant advantage and ignore all",
+    "page": 24,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "disadvantage. Your chosen allies gain 1 additional action to use on their next turn.",
+    "page": 24,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "espect the forest and her children, and she will bestow upon you many gifts. \nLong before the first stones of the grand kingdoms had been laid, there was \nThe Wild. We Hunters called groves and fields home, just as the elk and boar \nstill do. We have trained our minds and hearts as much as we have trained with bows.",
+    "page": 26,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "For, there is great danger in becoming a Hunter: the intoxicating Thrill of the Hunt \nthat washes over your body when stalking prey. Be warned—do not allow it to settle \ninto your heart. For no true Hunter takes without recognizing what they have first \nbeen given: a soul, a meal… warmth, all at a cost—a life. And that should not be taken \nlightly. Wherever you roam, be it city or glade, mountain or valley, as long as The Wild \nis tenderly tucked into the depths of your heart, you will always be a Hunter. May your \narrows strike true and your bowstrings never break.",
+    "page": 26,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "•Relentless Tracker. As an expert survivalist, you mark your prey, becoming a",
+    "page": 26,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "shadow in pursuit, relentless and precise.",
+    "page": 26,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "•Master of the Wild. Harness the Thrill of the Hunt to outwit your targets—set",
+    "page": 26,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "decoys, spring traps, and strike with lethal efficiency.",
+    "page": 26,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "•From Afar or Up Close. Whether you’re raining arrows from a distance or closing",
+    "page": 26,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "in for a personal takedown, your prey won’t escape your reach.",
+    "page": 26,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Key Stats: DEX, WIL   Hit Die: 1d8   Starting HP: 13\nSaves: DEX+, INT–    Armor: Leather Armor   Weapons: DEX Weapons",
+    "page": 27,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Starting Gear: Shortbow, Cheap Hides, Dagger, Hunting Trap",
+    "page": 27,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 1\t\nHunter’s Mark. Action: A creature you can see is marked as your quarry for 1 day (or until \nyou mark another creature). It can’t be hidden from you, and your attacks against it gain your \nchoice of advantage OR +LVL damage (choose before each attack).\n\t\nForager. Gain advantage on skill checks to find food and water in the wild.",
+    "page": 27,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 2\t\nThrill of the Hunt. Choose 2 Thrill of the Hunt (TotH) abilities. Gain a charge to use these \nabilities during that encounter whenever:",
+    "page": 27,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "• Your quarry dies.\n\t• You hit your quarry in melee or crit your quarry at range.",
+    "page": 27,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Roll & Strike. Action: If you have no Thrill of the Hunt charges, move up to your speed toward \nyour quarry. If you end adjacent to them, make a melee attack against them for free.",
+    "page": 27,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Remember the Wild. Whenever you spend a day in the wilderness during a Safe Rest, you may choose different \nHunter options available to you.",
+    "page": 27,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 3\t\nSubclass. Choose a Hunter subclass.\n\t\nTracker’s Intuition. You can discern the events of a past encounter by studying tracks and \nother subtle environmental clues, accurately determining the kind and amount of creatures, \ntheir direction, key actions, and passage of time.",
+    "page": 27,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 4\t\nThrill of the Hunt (2). Choose a 3rd Thrill of the Hunt ability. \n\t\nKey Stat Increase. +1 DEX or WIL.\n\t\nExplorer of the Wilds. +2 speed; gain a climbing speed.",
+    "page": 27,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 5\t\nHunter's Resolve. Whenever you have no Thrill of the Hunt charges, gain Hunter's Resolve  \nuntil the end of your turn: treat all creatures as your quarry for the purposes of movement and \nmelee attacks.\n\t\nFinal Takedown. Action: Spend 1 Thrill of the Hunt charge to make a melee attack against \nyour Bloodied quarry. Turn it into a crit and double the damage of your Hunter’s Mark. If they \nsurvive, they crit you back.\n\t\nSecondary Stat Increase. +1 STR or INT.",
+    "page": 28,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 6\t\nVersatile Bowmaster. Whenever you attack with a Longbow, you may roll 2d4 instead of \n1d8; or with a Crossbow, 2d8 instead of 4d4.\n\t\nThrill of the Hunt (3). Choose a 4th Thrill of the Hunt ability.",
+    "page": 28,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 7\t\nSubclass. Gain your Hunter subclass feature.",
+    "page": 28,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 8\t\nThrill of the Hunt (4). Choose a 5th Thrill of the Hunt ability.\n\t\nKey Stat Increase. +1 DEX or WIL.",
+    "page": 28,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 9\t\nNo Escape. Whenever you see one or more allies make an opportunity attack, you may also \nmake a ranged opportunity attack against the same target.\n\t\nSecondary Stat Increase. +1 STR or INT.",
+    "page": 28,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 10\t Veteran Stalker. Gain a Thrill of the Hunt charge whenever you are first Bloodied in an",
+    "page": 28,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "encounter and for every Wound you gain.\n\t\nKeen Eye, Steady Hand. Add WIL to your ranged weapon damage.",
+    "page": 28,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 11\t Subclass. Gain your Hunter subclass feature.",
+    "page": 28,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 12\t Thrill of the Hunt (5). Choose a 6th Thrill of the Hunt ability.\n\t\nKey Stat Increase. +1 DEX or WIL.",
+    "page": 28,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 13 \t Keen Sight. Advantage on Perception checks.\n\t\nSecondary Stat Increase. +1 STR or INT.",
+    "page": 28,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 14\t Thrill of the Hunt (6). Choose a 7th Thrill of the Hunt ability.",
+    "page": 28,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 15\t Subclass. Gain your Hunter subclass feature.",
+    "page": 28,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 16\t Key Stat Increase. +1 DEX or WIL.",
+    "page": 28,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 17\t Peerless Hunter. You can Defend against your quarry for free.\n\t\nSecondary Stat Increase. +1 STR or INT.",
+    "page": 28,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 18\t Wild Endurance. Gain 1 Thrill of the Hunt charge at the start of your turns.",
+    "page": 28,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 19\t Epic Boon. Choose an Epic Boon (see pg. 23 of the GM's Guide).",
+    "page": 28,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 20\t Nemesis. +1 to any 2 of your stats. Your Hunter’s Mark can target any number of creatures",
+    "page": 28,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Note: Each Thrill of the Hunt ability costs 1 charge to use and cannot miss. Abilities that spend charges cannot generate \nnew ones. Unused charges are lost when combat ends.",
+    "page": 29,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Addling Arrow. Action: Attack with a ranged \nweapon. The next attack the target makes must be \nagainst the closest other creature, chosen at random.",
+    "page": 29,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Come Get Some! Action: Attack a target. It is \nTaunted by you until the end of their next turn.",
+    "page": 29,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Decoy. When you Defend: The attack misses \ninstead, and you can move up to half your speed \naway (where you really were all along!).",
+    "page": 29,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Fleet Feet. Move up to your speed for free, ignoring \ndifficult terrain.",
+    "page": 29,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Grease Trap. (1/encounter) Reaction (when an \nenemy moves adjacent to you or an ally within 6 \nspaces): Target falls Prone, is vulnerable to the \nnext fire damage it takes, and is treated as if it is \nSmoldering.",
+    "page": 29,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Hail of Arrows. (Half range) 2 actions: Shoot all \ncreatures within a 3×3 area. Their speed is halved \nuntil the end of their next turn.",
+    "page": 29,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Heavy Shot. (Half range) Action: Attack with a \nranged weapon and push your target: 4 spaces for \na small creature, 2 for a medium creature, 1 for a \nlarge creature.",
+    "page": 29,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Incendiary Shot. (Half range) Action: Attack with \na ranged weapon, add WIL d8 fire damage.",
+    "page": 29,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Multishot. (Half range) Action: Attack your quarry \nwith a ranged weapon and load an extra projectile. \nSelect a 2nd target within 2 spaces of them to take \nthe same amount of damage.",
+    "page": 29,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Pinning Shot. Spend 3 actions shooting your \nquarry. They are Restrained until they can escape \n(DC 10+WIL).",
+    "page": 29,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Snare Trap. (1/encounter) Reaction (when an \nenemy moves adjacent to you or an ally within \n6 spaces): Move them back 1 space, they are \nRestrained until they can escape (DC 10+WIL).",
+    "page": 29,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Sharpshooter. Action: If you have not moved this \nturn and your quarry is 4 or more spaces away, attack \nthem for double damage.",
+    "page": 29,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Vital Shot. (Half Range) Action: If your quarry is \nHampered, your Ranged attacks ignore their armor. \nIf they are unarmored, double your Hunter’s Mark \nbonus damage.",
+    "page": 29,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Wild Instinct. (1/round) If you have no TotH \ncharges, assess for free, with advantage.",
+    "page": 29,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Remember the Wild. Whenever you spend a day in the wilderness during a Safe Rest, you may choose different",
+    "page": 29,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 3\t\nAmbusher. When you roll Initiative, you may use Hunter’s Mark for free. Gain advantage on \nthe first attack you make each encounter.\n\t\nSkilled Tracker. You have advantage on skill checks to track creatures.\n\t\nSkilled Navigator. You cannot become lost by nonmagical means.",
+    "page": 30,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 7\t\nPrimal Predator. (1/encounter) Your weapon attacks ignore cover and armor this turn.",
+    "page": 30,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 11\t Pack Hunter. Whenever you mark a creature, you may also mark another creature within 6",
+    "page": 30,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 15\t Apex Predator. You may use your Primal Predator ability twice each encounter. Gain 1 Thrill",
+    "page": 30,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "of the Hunt charge when you roll Initiative.",
+    "page": 30,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 3\t\nImpressive Form. +5 max HP. Upgrade your Hit Dice to d10s.\n\t\nI Have the High Ground. When you roll Initiative or gain one or more Thrill of the Hunt \ncharges, move up to half your speed for free, ignoring difficult terrain.",
+    "page": 30,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 7\t\nResourceful Herbalist. Whenever you Safe Rest in a location near where plants or fungi \ncan grow, you may spend a day collecting healing herbs to craft a number of Healing Salves \nequal to your WIL.\n\t\nHealing Salve. Action: Heal yourself or an adjacent creature WIL d6 HP. Only you or another \nexperienced Herbalist may administer these, and they expire whenever you Safe Rest.",
+    "page": 30,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 11\t Ha! I’m Over Here! (1/Safe Rest) If an attack would cause you to drop to 0 HP, you instead",
+    "page": 30,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "move up to your speed away and take no damage.",
+    "page": 30,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 15\t Unparalleled Survivalist. Gain +WIL armor. When you attack with a ranged weapon, you",
+    "page": 30,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "lemental power flows through all things… find it, study it, and harness it. \nA mage is bestowed their first strand of the Tapestry at birth; however, true \nmastery eludes those who idly rest upon this innate endowment. Instead, they \ndiligently refine their natural gifts through scholarly pursuit, with tomes and parch-\nments as their companions, alongside the sage counsel of a seasoned mentor or three! \nYes, this is the chosen path of those who would wield authority over the elements.",
+    "page": 32,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Comprehending the tapestry of mana is no trivial endeavor—it will yield its arcane \nsecrets only to the earnest seeker of knowledge. Yet, once the adept learns to discern \nthe subtleties of its intricate patterns as it unfurls and meanders into the ethereal \nexpanse—it is in that moment the apprentice truly ascends to the mantle of mage. \nWhat makes a Mage:",
+    "page": 32,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "•Spellshaper. Customize the spells you cast: stretch time, gain extra-dimensional",
+    "page": 32,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "•Elemental Mastery. Harness the power of the elements, whether raining down",
+    "page": 32,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "fire from the heavens, freezing enemies in their tracks, or striking with thunderous \nbolts of lightning.",
+    "page": 32,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "•Chaos or Control. Will you snatch control of the frayed tapestry of mana or",
+    "page": 32,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "lean into the forces of chaos? What awaits you… Diamond Skin? Elemental \nEntanglement? Liquefy Legs?",
+    "page": 32,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Key Stats: INT, WIL   Hit Die: 1d6   Starting HP: 10   \nSaves: INT+, STR–   Armor: Cloth Armor   Weapons: Blades, Staves, Wands",
+    "page": 33,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Starting Gear: Adventurer’s Garb, Staff, Soap",
+    "page": 33,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 1\t\nElemental Spellcasting. You know Fire, Ice, and Lightning cantrips.",
+    "page": 33,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 2\t\nMana and Unlock Tier 1 Spells. You unlock tier 1 Fire, Ice, and Lightning spells and gain \na mana pool to cast these spells. This mana pool’s maximum is always equal to (INT×3)+LVL \nand recharges on a Safe Rest.\n\t\nTalented Researcher. Gain advantage on Arcana or Lore checks when you have access to a",
+    "page": 33,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "large amount of books and time to study them.",
+    "page": 33,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 3\t\nSubclass. Choose a Mage subclass.\n\t\nElemental Mastery. Learn the Utility Spells from 1 spell school you know.",
+    "page": 33,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Study! Whenever you study arcane books or are tutored by a higher level Mage during a Safe Rest, you may choose \ndifferent Mage options available to you.",
+    "page": 33,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 4\t\nSpellshaper. You gain the ability to enhance your spells with powerful effects by spending \nadditional mana. Choose 2 Spellshaper abilities. \n\t\nTier 2 Spells. You may now cast tier 2 spells and upcast spells at tier 2.\n\t\nKey Stat Increase. +1 INT or WIL.",
+    "page": 33,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 5\t\nElemental Surge. A surge of adrenaline and your attunement with the elements grants you \nadditional power as combat begins. When you roll Initiative, regain WIL mana (this expires at \nthe end of combat if unused).\n\t\nSecondary Stat Increase. +1 STR or DEX.\n\t\nUpgraded Cantrips. Your cantrips grow stronger.",
+    "page": 33,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 6\t\nTier 3 Spells. You may now cast tier 3 spells and upcast spells at tier 3.\n\t\nElemental Mastery (2). Learn the Utility Spells from a 2nd spell school you know.",
+    "page": 34,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 7\t\nSubclass. Gain your Mage subclass feature.",
+    "page": 34,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 8\t\nTier 4 Spells. You may now cast tier 4 spells and upcast spells at tier 4.\n\t\nKey Stat Increase. +1 INT or WIL.",
+    "page": 34,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 9\t\nSpellshaper (2). Choose 1 additional Spellshaper ability. \n\t\nSecondary Stat Increase. +1 STR or DEX.",
+    "page": 34,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 10\t Elemental Surge (2). Your Elemental Surge ability now regains WIL+1d4 mana.\n\t\nTier 5 Spells. You may now cast tier 5 spells and upcast spells at tier 5.\n\t\nUpgraded Cantrips. Your cantrips grow stronger.",
+    "page": 34,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 11\t Subclass. Gain your Mage subclass feature.",
+    "page": 34,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 12\t Tier 6 Spells. You may now cast tier 6 spells and upcast spells at tier 6.\n\t\nKey Stat Increase. +1 INT or WIL.",
+    "page": 34,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 13\t Spellshaper (3). Choose 1 additional Spellshaper ability.\n\t\nSecondary Stat Increase. +1 STR or DEX.",
+    "page": 34,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 14\t Tier 7 Spells. You may now cast tier 7 spells and upcast spells at tier 7.\n\t\nElemental Mastery (3). Learn the Utility Spells from a 3rd spell school you know.",
+    "page": 34,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 15\t Subclass. Gain your Mage subclass feature.\n\t\nUpgraded Cantrips. Your cantrips grow stronger.",
+    "page": 34,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 16\t Tier 8 Spells. You may now cast tier 8 spells and upcast spells at tier 8.\n\t\nKey Stat Increase. +1 INT or WIL.",
+    "page": 34,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 17\t Elemental Surge (3). Your Elemental Surge ability now regains WIL+2d4 mana.\n\t\nSecondary Stat Increase. +1 STR or DEX.",
+    "page": 34,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 18\t Tier 9 Spells. You may now cast tier 9 spells and upcast spells at tier 9.",
+    "page": 34,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 19\t Epic Boon. Choose an Epic Boon (see pg. 23 of the GM's Guide).",
+    "page": 34,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 20\t Archmage. +1 to any 2 of your stats. The first tiered spell you cast each encounter costs 1",
+    "page": 34,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "action less and 5 fewer mana.\n\t\nUpgraded Cantrips. Your cantrips grow stronger.",
+    "page": 34,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "SPELLSHAPER\nGain Spellshaper abilities as you level up. You may use 1/turn.",
+    "page": 35,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Dimensional Compression. (1 or more mana) \n+4 range to a spell for each additional mana spent.",
+    "page": 35,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Echo Casting. (2×mana, min. 1 mana) When you \ncast a tiered, single-target spell, you may cast a copy \nof that spell on a 2nd target for free.",
+    "page": 35,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Elemental Destruction. (1 or more mana) After \nyou hit with a spell, you may spend 1 or more mana \n(up to your WIL) to reroll 1 die per mana spent.",
+    "page": 35,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Elemental Transmutation. (1 mana) Change \nthe damage type of a spell to: Fire, Ice, Lightning, \nNecrotic, or Radiant.",
+    "page": 35,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Extra-Dimensional Vision. (2 mana) You may \nignore the line of sight requirement of a spell. Your \nspell will phase though barriers and obstacles to \nreach a target you know of within range.",
+    "page": 35,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Methodical Spellweaver. (–2 mana) Spend 1 \nadditional action to reduce the mana cost of a spell \nby 2 (min 1).",
+    "page": 35,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Precise Casting. (1+ mana) Choose 1 creature \nper mana spent to be unaffected by a spell you cast.",
+    "page": 35,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Stretch Time. (2 mana) Reduce the action cost of \na spell by 1 (min 1).",
+    "page": 35,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Study! Whenever you study arcane books or are tutored by a higher level Mage during a Safe Rest, you may",
+    "page": 35,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "choose different Mage options available to you.",
+    "page": 35,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "CONTROL  TABLE\nMagic is Dangerous. You can stitch its fraying edges together to your own benefit… for a time.",
+    "page": 35,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "I INSIST. Cast a cantrip for free, ignoring all disadvantage; it cannot miss.",
+    "page": 35,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "ELEMENTAL AFFLICTION. A creature of your choice within 12 spaces gains the Charged, Smoldering, \nor Slowed condition.",
+    "page": 35,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "NO. Choose a creature; it cannot harm a creature of your choice during its next turn.",
+    "page": 35,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LOSE CONTROL. Do ALL of the above, but the GM chooses each time.",
+    "page": 35,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 3\t\nForce of Will. (1/round) On your turn, you may Demand Control: Choose 1 option from the \nControl Table which you haven't chosen yet; resets when you roll Initiative, or when you have \nchosen all options once. \n\t\nDeny Fate. Whenever you miss with a spell or an effect you cause is saved against, you MUST \nDemand Control.",
+    "page": 36,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 7\t\nAt Any Cost. Learn 1 cantrip and 1 tiered spell from the Necrotic school.\n\t\nNullify. (1/encounter) Ignore all disadvantage and other negative effects on your next action \nthis turn, then Demand Control.",
+    "page": 36,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 11\t Steel Will. (1/Safe Rest) Whenever you would fail a save, you may succeed instead. Whenever",
+    "page": 36,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "you roll a 1 on an Elemental Surge die, you may reroll it once.",
+    "page": 36,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 15\t Supreme Control. Whenever you Demand Control, you may choose to trigger the selected",
+    "page": 36,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "option twice. You may Demand Control as a Reaction.",
+    "page": 36,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 3\t\nForce of Chaos. Whenever you cast a spell, you can choose to spend 1 less mana. Whenever \nyou do this and whenever you crit, Invoke Chaos: Roll on the Chaos Table.",
+    "page": 36,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Where's the Chaos Table? It's a secret for the GM only! Suffice it to say, rolling a 1 is really bad, but rolling a 20 is \nAWESOME—but if you’re sure you want to spoil it, you can find it on the back inside cover of the GM's Guide. Let chaos reign!",
+    "page": 36,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 7\t\nTempest Mage. Learn 1 cantrip and 1 tiered spell from the Wind school. \n\t\nChaos Lash. (1/encounter) Reaction (when an enemy moves adjacent to you): They are pushed \nback 2 spaces, and on a failed WIL save, knocked Prone as well. Invoke Chaos.",
+    "page": 36,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 11\t Thrive in Chaos. Whenever you Invoke Chaos, you may roll twice and cause both effects. (1/",
+    "page": 36,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Safe Rest) You may choose which roll to use instead.",
+    "page": 36,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 15\t Master of Chaos. Whenever you Invoke Chaos, roll with advantage.",
+    "page": 36,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "will protect my companions and vanquish evil at all costs. Various orders of these \nzealous, holy warriors have attained great physical and radiant strength through \nabsolute devotion to a higher power in the form of oaths. Through their strength, \nboth physical and radiant, nothing can sway them from their hunger for justice and \ntheir fervent pursuit and hatred of evil.",
+    "page": 38,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "The mark of a true Oathsworn, however, is their willingness to lay down their life for \ntheir friends. As an Oathwsorn, you can:",
+    "page": 38,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "•Defend with Devotion. Shield your allies from harm and channel righteous",
+    "page": 38,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "judgment. The more you face evil, the more potent your strikes become.",
+    "page": 38,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "•Divinely Protect. Stand as a bastion of defense, safeguarding allies even from afar.",
+    "page": 38,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Your presence brings justice to every corner of the realm.",
+    "page": 38,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "•Beacon of Virtue. Mend wounds, discern truth from ill intent, and inspire others to",
+    "page": 38,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "embrace your noble cause with unwavering conviction.",
+    "page": 38,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Key Stats: STR, WIL   Hit Die: 1d10   Starting HP: 17\nSaves: STR+, DEX–   Armor: All Armor  Weapons: STR Weapons",
+    "page": 39,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Starting Gear: Mace, Rusty Mail, Wooden Buckler, Manacles",
+    "page": 39,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 1\t\nRadiant Judgment. Whenever an enemy attacks you, if you have no Judgment Dice, roll \nyour Judgment dice (2d6). On your next melee attack this encounter, if you hit, deal that much \nadditional radiant damage. The dice are expended whether you hit or miss.\n\t\nLay on Hands. Gain a magical pool of healing power. This pool’s maximum is always equal \nto 5×LVL and recharges on a Safe Rest. Action: Touch a target and spend any amount of \nremaining healing power to restore that many HP.",
+    "page": 39,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 2\t\nMana and Radiant Spellcasting. You know Radiant cantrips, tier 1 Radiant spells, and \ngain a mana pool. Your mana pool is equal to WIL + LVL and recharges on a Safe Rest. \n\t\nZealot. Whenever you attack with a melee weapon, you may spend mana (up to your highest \nunlocked spell tier) to choose one for each mana spent:",
+    "page": 39,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "•\t Condemning Strike. Deal +5 radiant damage.\n•\t Blessed Aim. Decrease your target's armor by 1 step for this attack.",
+    "page": 39,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Paragon of Virtue. Advantage on Influence checks to convince someone when you are",
+    "page": 39,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "forthrightly telling the truth, disadvantage when misleading.",
+    "page": 39,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 3\t\nSubclass. Commit yourself to an Oath and gain its benefits.\n\t\nRadiant Judgment (2). Your Judgment Dice are d8s.\n\t\nSacred Decree. Learn 1 Sacred Decree.",
+    "page": 39,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Serve Selflessly. Whenever you perform a notable selfless act during a Safe Rest, you may choose different Oathsworn \noptions available to you.",
+    "page": 39,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 4\t\nMy Life, for My Friends. You can Interpose for free.\n\t\nTier 2 Spells. You may now cast tier 2 spells and upcast spells at tier 2.",
+    "page": 39,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 5\t\nRadiant Judgment (3). Your Judgment Dice are d10s.\n\t\nUpgraded Cantrips. Your cantrips grow stronger. \n\t\nSecondary Stat Increase. +1 DEX or INT.",
+    "page": 40,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 6\t\nTier 3 Spells. You may now cast tier 3 spells and upcast spells at tier 3.\n\t\nSacred Decree (2). Learn a 2nd Sacred Decree.",
+    "page": 40,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 7\t\nSubclass. Gain your Oathsworn subclass feature.\n\t\nMaster of Radiance. Choose 1 Radiant Utility Spell.",
+    "page": 40,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 8\t\nTier 4 Spells. You may now cast tier 4 spells and upcast spells at tier 4.\n\t\nRadiant Judgment (4). Your Judgment Dice are d12s.\n\t\nKey Stat Increase. +1 STR or WIL.",
+    "page": 40,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 9\t\nSacred Decree (3). Learn a 3rd Sacred Decree. \n\t\nSecondary Stat Increase. +1 DEX or INT.",
+    "page": 40,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 10\t Tier 5 Spells. You may now cast tier 5 spells and upcast spells at tier 5.\n\t\nUpgraded Cantrips. Your cantrips grow stronger.\n\t\nRadiant Judgment (5). Your Judgment Dice are d20s.",
+    "page": 40,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 11\t Subclass. Gain your Oathsworn subclass feature.\n\t\nMaster of Radiance (2). Choose a 2nd Radiant Utility Spell.",
+    "page": 40,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 12\t Sacred Decree (4). Learn a 4th Sacred Decree.\n\t\nKey Stat Increase. +1 STR or WIL.",
+    "page": 40,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 13\t Tier 6 Spells. You may now cast tier 6 spells and upcast spells at tier 6.\n\t\nSecondary Stat Increase. +1 DEX or INT.",
+    "page": 40,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 14\t Sacred Decree (5). Learn a 5th Sacred Decree.\n\t\nRadiant Judgment (6). Whenever you roll Judgment Dice, roll 1 more.",
+    "page": 40,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 15\t Subclass. Gain your Oathsworn subclass feature.\n\t\nUpgraded Cantrips. Your cantrips grow stronger.",
+    "page": 40,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 16\t Sacred Decree (6). Learn a 6th Sacred Decree.\n\t\nKey Stat Increase. +1 STR or WIL.",
+    "page": 40,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 17\t Tier 7 Spells. You may now cast tier 7 spells and upcast spells at tier 7.\n\t\nSecondary Stat Increase. +1 DEX or INT.",
+    "page": 40,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 18\t Unending Judgment. While you have no Judgment Dice, gain +5 damage to melee attacks.",
+    "page": 40,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 19\t Epic Boon. Choose an Epic Boon (see pg. 23 of the GM's Guide).",
+    "page": 40,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 20\t Glorious Paragon. +1 to any 2 of your stats. Defend for free whenever you Interpose.\n\t\nUpgraded Cantrips. Your cantrips grow stronger.",
+    "page": 40,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Blinding Aura. (1/Safe Rest) Action: Enemies in \nyour aura are Blinded until the end of their next turn.",
+    "page": 41,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Courage! (1/encounter) When you or an ally in your \naura would drop to 0 HP, set their HP to 1 instead.",
+    "page": 41,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Explosive Judgment. (1/encounter) 2 actions: \nExpend your Judgment Dice, deal that much radiant \ndamage to all enemies in your aura.",
+    "page": 41,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Radiant Aura. Action: End any single harmful \ncondition or effect on yourself or another willing \ncreature within your aura. You may use this ability \nWIL times/Safe Rest.",
+    "page": 41,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Harmful Conditions. Ending “Dying” grants 1 HP, \nending “Dazed” grants 1 action, etc.",
+    "page": 41,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Reliable Justice. Whenever you roll Judgment",
+    "page": 41,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Dice, roll with advantage (roll one extra and drop \nthe lowest).",
+    "page": 41,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Shining Mandate. The first time each round you \nare attacked while you already have Judgment Dice, \nselect an ally within your aura to roll one and apply \nit to their next attack. You have advantage on skill \nchecks to see through illusions.",
+    "page": 41,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Stand Fast, Friends! When you roll Initiative, \ngrant allies temp HP equal to your STR+WIL. You \nand allies within your aura have advantage against \nfear and effects that would move or knock Prone.",
+    "page": 41,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Unstoppable Protector. Gain +1 speed. You may \nInterpose even if you are restrained, stunned, or \notherwise incapacitated. If you Interpose for a non-\ncombatant NPC, you may Interpose again this round.",
+    "page": 41,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Well Armored. Whenever you Interpose, gain \ntemp HP equal to your STR.",
+    "page": 41,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Serve Selflessly. Whenever you perform a notable selfless act during a Safe Rest, you may choose different",
+    "page": 41,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 3\t\nAura of Zeal. Whenever you roll Judgment Dice, roll 1 more. Gain an aura with a Reach of \n4. Your Radiant Judgment also triggers when an ally within your aura is attacked while you \nhave no Judgment Dice.",
+    "page": 42,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 7\t\nAvenger. Whenever you or an ally within your aura gain any Wounds, set up to that many \nJudgment Dice to their max. Then, move up to half your speed for free.",
+    "page": 42,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 11\t Unerring Judgment. Increase your primary die rolls on melee attacks by 1 whenever you",
+    "page": 42,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 15\t Maximum Judgment. Whenever you are attacked, set a Judgment Die to its max.",
+    "page": 42,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 3\t\nAura of Refuge. Your shields gain +WIL armor and count as your spellcasting focus. Gain \nan aura with a Reach of 4; you can Interpose for an ally anywhere within your aura.",
+    "page": 42,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 7\t\nFace Me, Foul Creature! When you Interpose, the attacking enemy is also Taunted by you \nuntil the end of their next turn.",
+    "page": 42,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 11\t Glorious Reprieve. You and allies in your aura cannot drop below 1 HP. Whenever this",
+    "page": 42,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "triggers, they gain 1 Wound instead (heroes still die at max Wounds).",
+    "page": 42,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 15\t Divine Grace. You are resistant to all damage while Interposing.",
+    "page": 42,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "otally NOT evil. Why would you even say that? Great power sometimes comes \nfrom… horrible places. But what’s the alternative, spend our entire lives… \nSTUDYING?! Now that’s horrible. Who’d want to waste their lives reading \nbooks—learning magic the hard way? Work SMART, not hard. Just scheme up a way \nto take what you need from someone who won’t miss it—ancient horrors don’t guard \ntheir power nearly as well as you’d think! And if there’s power just laying around, it’d \nbe dumb of me to not use it, really.",
+    "page": 44,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "So what if I wear black and have to occasionally sacrifice an animal here and there while \nchanting? Does that automatically mean I’m evil? *Pfft,* hardly! Not every ANCIENT \nHORROR is the same; that’s like saying crow black and spider black are the same. \nOkay, bad examples, but the point stands. If you’re tired of swinging swords around \nand getting sweaty like a peasant, just summon a horde of shadow minions to do your \nbidding. They’re always eager to serve! As a Shadowmancer:",
+    "page": 44,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "•Unspeakable Power Awaits. Use your cunning to forge pacts with ancient,",
+    "page": 44,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "unfathomable entities, drawing upon their incomprehensible power to crush foes \nand bend the shadows to your will.",
+    "page": 44,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "•Master Shadow Minions. Summon legions of shadowy minions to overwhelm",
+    "page": 44,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "your adversaries and bolster your magical abilities. Let them swarm your foes, \nserving as both sword and fodder in your quest for dominance.",
+    "page": 44,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Key Stats: INT, DEX   Hit Die: 1d8   Starting HP: 13\nSaves: INT+, WIL–   Armor: Cloth Armor   Weapons: Blades, Wands",
+    "page": 45,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Starting Gear: Adventurer's Garb, Sickle, Shovel",
+    "page": 45,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 1\t\nConduit of Shadow. Your Patron grants you knowledge of:\n\t\nShadow Blast. (Necrotic cantrip) Action: (1/turn) Range: 8. Damage: 1d12+KEY. High Levels: \n+1d12 damage every 5 levels.",
+    "page": 45,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Summon Shadows. (Necrotic cantrip)  High Levels: +1 Reach every 5 levels.",
+    "page": 45,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "• \tAction: Summon a shadow minion within Reach 1 (you can summon a max of INT or LVL",
+    "page": 45,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "minions this way, whichever is lower).\n\t• Action: (1/turn) Command ALL of your minions to move 6 then attack (Reach 1, 1d12 each).",
+    "page": 45,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Shadow Minions. Your shadow minions follow the normal minion rules: they have 1 HP, no damage bonus, and do \nnot crit. They abandon you immediately outside of combat. You and your minions are different creatures, so you can \nattack once and command them to attack without suffering the Rushed Attack penalty! (see pg. 13 of the Core Rules)",
+    "page": 45,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 2\t\nMaster of Darkness. Your Patron grants you knowledge of Necrotic cantrips and tier 1 spells.\n\t\nPilfered Power. You may steal power from your patron to cast tiered spells, always casting \nthem at the highest tier you have unlocked. You can do this DEX times before your patron \ntakes notice. Each time you exceed this limit, your patron damages you for half your max HP \nas recompense. This limit resets when you commune with your patron during a Safe Rest.",
+    "page": 45,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 3\t\nTHE PACT IS SEALED. Choose a subclass and 1 Lesser Shadow Invocation.",
+    "page": 45,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Supplicate. Whenever you commune with your Patron on a Safe Rest, you may beg them to allow you to choose \ndifferent Shadowmancer options (they may ask for something in return).",
+    "page": 45,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 4\t\nKey Stat Increase. +1 INT or DEX. \n\t\nA Gift from the Master. Choose 1 Greater Shadow Invocation.",
+    "page": 45,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 5\t\nTier 2 Spells. You may now cast tier 2 spells; all of your spells are cast at this tier.\n\t\nUpgraded Cantrips. Your cantrips grow stronger.\n\t\nSecondary Stat Increase. +1 STR or WIL.",
+    "page": 45,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 6\t\nA Gift from the Master (2). Choose a 2nd Greater Shadow Invocation.\n\t\nShadowmastery. Choose 1 Necrotic Utility Spell.",
+    "page": 46,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 7\t\nSubclass. Gain your Shadowmancer subclass feature.\n\t\nTier 3 Spells. You may now cast tier 3 spells; all of your spells are cast at this tier.",
+    "page": 46,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 8\t\nKey Stat Increase. +1 INT or DEX.\n\t\nLesser Invocation. Choose a 2nd Lesser Shadow Invocation.\n\t\nShadowmastery (2). Choose a 2nd Necrotic Utility Spell.",
+    "page": 46,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 9\t\nA Gift from the Master (3). Choose a 3rd Greater Shadow Invocation.\n\t\nSecondary Stat Increase. +1 STR or WIL.",
+    "page": 46,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 10\t Tier 4 Spells. You may now cast tier 4 spells; all of your spells are cast at this tier.\n\t\nUpgraded Cantrips. Your cantrips grow stronger.",
+    "page": 46,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 11\t Subclass. Gain your Shadowmancer subclass feature.\n\t\nLesser Invocation (2). Choose a 3rd Lesser Shadow Invocation.",
+    "page": 46,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 12\t Greedy Pact. When you would take damage from  Pilfer Power, make a STR save:",
+    "page": 46,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "•1–9: Suffer damage as normal.\n\t•10–19: Suffer only 10 HP of damage. \n\t• 20+: Suffer no damage and cast the spell as if it were 1 tier higher.\n\t\nKey Stat Increase. +1 INT or DEX.",
+    "page": 46,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 13\t Tier 5 Spells. You may now cast tier 5 spells; all of your spells are cast at this tier.\n\t\nSecondary Stat Increase. +1 STR or WIL.",
+    "page": 46,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 14\t A Gift from the Master (4). Choose a 4th Greater Shadow Invocation.\n\t\nShadowmastery (3). You know all Necrotic Utility Spells.",
+    "page": 46,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 15\t Subclass. Gain your Shadowmancer subclass feature.\n\t\nUpgraded Cantrips. Your cantrips grow stronger.",
+    "page": 46,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 16\t Tier 6 Spells. You may now cast tier 6 spells; all of your spells are cast at this tier.\n\t\nKey Stat Increase. +1 INT or DEX.",
+    "page": 46,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 17\t Dire Shadows. Attacks against your shadow minions are made with disadvantage. They take",
+    "page": 46,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "no damage from successful saves.\n\t\nSecondary Stat Increase. +1 STR or WIL.",
+    "page": 46,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 18\t A Gift from the Master (5). Choose a 5th Greater Shadow Invocation.",
+    "page": 46,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 19\t Epic Boon. Choose an Epic Boon (see pg. 23 of the GM's Guide). \n\t\nTier 7 Spells. You may now cast tier 7 spells; all of your spells are cast at this tier.",
+    "page": 46,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 20\t Eldritch Usurper. +1 to any 2 of your stats. Whenever you summon a single shadow minion,",
+    "page": 46,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "summon 2 instead. They die only when they receive 12 or more damage at one time.\n\t\nUpgraded Cantrips. Your cantrips grow stronger.",
+    "page": 46,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Abhorrent Speech. You can communicate with \nhorrible creatures (aberrations, undead, etc.).\nBeguiling Influence. (1/day) You may reroll an \nInfluence check.\nBlood Sight. (1/day) You may reroll an Examina-\ntion check. Additionally, you can detect traces of \nblood on a surface, even after it has been cleaned. \nDevoted Acolyte. Learn 2 of the following lan-\nguages: Celestial, Draconic, Deep Speak, Infernal, \nor Primordial. Advantage on Lore checks related to \nthose 2 languages.\nEldritch Sense. You can sense the presence of \nany shapechanger or creature concealed by magic \nwhile within 6 spaces of them.",
+    "page": 47,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Gaze of Two Minds. Touch a willing creature and \nperceive through its senses instead of your own for \nas long as you hold concentration.\nKnowledge from Beyond. Whenever you fail an \nInsight or Arcana check, you may suffer 1 Wound \nto succeed instead.\nMy Favored Pet. One shadow minion can \nbegrudgingly tolerate you outside of combat. It \ncan (very creepily) do any menial task a below \naverage commoner could.\nVoice of the Dark. You can communicate tele-\npathically with a humanoid within 6 spaces.\nWhispers of the Grave. (1/day) You can ask a \ndead creature 3 yes/no questions. It can never be \nquestioned this way again.",
+    "page": 47,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Armor of Shadows. Reduce all damage you \nreceive by an amount equal to the number of \nminions you have.\nFiendish Boon. Increase your DEX or INT by 1. \nYou have 1 fewer maximum Hit Dice.\nHungering Shadows. Whenever one of your \nshadows would crit, the next tiered spell you cast \nthis encounter does not cost a use of Pilfered Power.\nOne with Shadows. Action: When you are in an \narea of dim light or darkness, you may become \nInvisible until you move or attack.\nRepelling Blast. When you hit a Medium or \nsmaller creature with Shadow Blast, you can push \nthe creature up to 2 spaces away from yourself. \nShadow Magus. Your minions gain +4 Reach \nand deal d10 damage instead.",
+    "page": 47,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Shadow Spear. Your Shadow Blast can target \ncreatures twice as far away, it ignores cover, and \nyou may attack Prone targets with advantage with \nit (instead of disadvantage).\nShadow Rush. When your shadow minions \nattack, instead of rolling damage, you may have \nany of them deal the max amount, then die.\nShadow Warp. Action: Switch places with a crea-\nture within 12 spaces that has been dealt necrotic \ndamage this turn. \nSwarming Shadows. Whenever one of your \nshadows would crit, summon another shadow \nminion adjacent to the target.\nVengeful Blast. Whenever a minion dies, you \nmay cast Shadow Blast as a reaction (even if you \nalready cast it this turn).",
+    "page": 47,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Supplicate. Whenever you commune with your Patron on a Safe Rest, you may beg them to allow you to choose",
+    "page": 47,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "different Shadowmancer options (they may ask for something in return).",
+    "page": 47,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 3\t\nDraconic Crimson Rite. Your Patron grants you knowledge of Fire spells. Your shadow \nminions become flaming dragon wyrmling shadows. Your Shadow Blast and minions can \ndeal fire or necrotic damage and inflict Smoldering whenever they would crit.",
+    "page": 48,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 7\t\nWe’ll ALL Burn! You may cast Pyroclasm without Pilfering Power by including yourself in \nthe damage. You have advantage on the save. Choose 1 Fire Utility Spell.",
+    "page": 48,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 11\t Heart of Burning Fire. Regain 1 use of Pilfered Power each time you roll Initiative. This",
+    "page": 48,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 15\t Enveloped by the Master. Gain 1d4 Wounds to cast Dragonform.",
+    "page": 48,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 3\t\nMaster of Nightfrost. Your Patron grants you knowledge of Ice spells. Gain the ability to \nbreathe underwater. Your shadow minions become beings of nightfrost. Your shadow blast \nand minions can deal cold or necrotic damage, and whenever they would crit, you gain INT+LVL \ntemp HP.",
+    "page": 48,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 7\t\nShadowfrost. Your Shadow Blast also Slows. You can cast Cryosleep or Rimeblades without \nPilfering Power by expending 10 temp HP. Choose 1 Ice Utility Spell.",
+    "page": 48,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 11\t Glacial Resilience. (1/Safe Rest) Reaction (whenever you are attacked or would gain a",
+    "page": 48,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "condition), gain 10×LVL temp HP and end ALL negative conditions on yourself. At the end of \nyour next turn, any remaining temp HP are lost.",
+    "page": 48,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 15\t Cryomancer’s Reprisal. Pay half your max HP to cast ANY Ice spell. After casting an Ice spell",
+    "page": 48,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "in this way, you gain an invisible aura: the next creature that hits you with a melee attack this \nencounter takes cold damage equal to half the HP you spent on this casting.",
+    "page": 48,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "et all who are afflicted come. I will mend thy bones and soothe thy wounds. \nThou shalt revere the gifts of life and death, neither of which is ever given or \ntaken. Rather, we are all souls merely journeying between this realm and that \nof the beyond. But alas, often do these wandering souls find themselves bereft of \nguidance. Thus falls upon the Shepherd the solemn duty—to be a beacon of light to \nthose ensnared in darkness, and darkness to those who, in hubris, deem themselves \nto be the light.",
+    "page": 50,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "For many, the journey of service is a difficult path—yet, in this task we are not solitary. \nOur Lifebinding Spirits, the steadfast companions of our faith, are bound beside us, \ncomforting and aiding us in the stewardship we’ve been given. As a Shepherd, you:",
+    "page": 50,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "•Embrace the Balance. Embody the forces of Life and Death, wielding spells from",
+    "page": 50,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "your chosen domains. As you walk the path of balance, ponder which way the scales \nshall tip: towards healing or harm?",
+    "page": 50,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "•Lead a Faithful Companion. Summon a Lifebinding spirit to your side, providing",
+    "page": 50,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "invaluable support in battle. Whether bolstering allies with healing or smiting foes \nwith righteous fury, your spirit companion stands ready to aid in the struggle.",
+    "page": 50,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Key Stats: WIL, STR   Hit Die: 1d10   Starting HP: 17\nSaves: WIL+, DEX–   Armor: Mail Armor, Shields   Weapons: STR Weapons, Wands",
+    "page": 51,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Starting Gear: Rusty Mail, Mace, Wooden Buckler, Bell",
+    "page": 51,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 1\t\nKeeper of Life & Death. You know Radiant and Necrotic cantrips.\n\t\nSearing Light. (WIL times/Safe Rest) Action: Heal or Inflict grievous injuries:",
+    "page": 51,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "• Heal WIL d8 HP to a Dying creature within Reach 6. OR:\n\t• Inflict WIL d8 radiant damage to an undead or Bloodied enemy within Reach 6.",
+    "page": 51,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 2\t\nMana and Unlock Tier 1 Spells. You unlock tier 1 Radiant and Necrotic spells and gain a \nmana pool to cast these spells. This mana pool’s maximum is always equal to (WIL×3)+LVL \nand recharges on a Safe Rest.\n\t\nLifebinding Spirit. (Radiant Spell, Tier 1)",
+    "page": 51,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "• Action: Summon a spirit companion that follows you and is immune to harm. It lasts until",
+    "page": 51,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "you cast this spell again, take a Safe Rest, or it heals a number of times equal to the mana \nspent summoning it.\n\t• Action: It attacks or heals a creature within Reach 4. It attacks for 1d6+WIL radiant damage",
+    "page": 51,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "(ignoring armor), or heals for the same amount. \n\t\nUpcasting: Increment its die size by 1 (max d12), +1 healing use.",
+    "page": 51,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Flavor is Free. Your Lifebinding Spirit can take the form of any small/tiny friendly animal or similar creature (dog, \nlamb, rabbit, sparrow, etc.). Make sure you give your little buddy a name, too! Outside of combat, your companion \nis a spirit, so it can pass through walls and dangers harmlessly and briefly move away from you (but always prefers \nto be faithfully at your side). It cannot speak.",
+    "page": 51,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Rushed Attacks and My Companion? You and your companion use the same action pool, but count as different \ncreatures. So you can each attack once without Rushed Attacks every round. Teamwork! (see pg. 13 of the Core Rules)",
+    "page": 51,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 3\t\nSubclass. Choose a Shepherd subclass.\n\t\nMaster of Twilight. Choose 1 Necrotic and 1 Radiant Utility Spell.",
+    "page": 51,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 4\t\nTier 2 Spells. You may now cast tier 2 spells and upcast spells at tier 2.\n\t\nKey Stat Increase. +1 WIL or STR.",
+    "page": 51,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 5\t\nSecondary Stat Increase. +1 INT or DEX.\n\t\nUpgraded Cantrips. Your cantrips grow stronger.\n\t\nSacred Grace. Choose 2 Sacred Graces.",
+    "page": 52,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Serve. After spending a day tending to a sacred place or serving others during a Safe Rest, you may choose different \nShepherd options available to you.",
+    "page": 52,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 6\t\nTier 3 Spells. You may now cast tier 3 spells and upcast spells at tier 3.\n\t\nMaster of Twilight (2). Choose a 2nd Necrotic and Radiant Utility Spell.",
+    "page": 52,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 7\t\nSubclass. Gain your Shepherd subclass feature.",
+    "page": 52,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 8\t\nTier 4 Spells. You may now cast tier 4 spells and upcast spells at tier 4.\n\t\nKey Stat Increase. +1 WIL or STR.",
+    "page": 52,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 9\t\nSacred Grace (2). Choose a 3rd Sacred Grace.\n\t\nSecondary Stat Increase. +1 INT or DEX.",
+    "page": 52,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 10\t Tier 5 Spells. You may now cast tier 5 spells and upcast spells at tier 5.\n\t\nUpgraded Cantrips. Your cantrips grow stronger.",
+    "page": 52,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 11\t Subclass. Gain your Shepherd subclass feature.\n\t\nMaster of Twilight (3). You know all Necrotic and Radiant Utility Spells.",
+    "page": 52,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 12\t Tier 6 Spells. You may now cast tier 6 spells and upcast spells at tier 6.\n\t\nKey Stat Increase. +1 WIL or STR.",
+    "page": 52,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 13\t Sacred Grace (3). Choose a 4th Sacred Grace. \n\t\nSecondary Stat Increase. +1 INT or DEX.",
+    "page": 52,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 14\t Tier 7 Spells. You may now cast tier 7 spells and upcast spells at tier 7.",
+    "page": 52,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 15\t Subclass. Gain your Shepherd subclass feature.\n\t\nUpgraded Cantrips. Your cantrips grow stronger.",
+    "page": 52,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 16\t Tier 8 Spells. You may now cast tier 8 spells and upcast spells at tier 8.\n\t\nKey Stat Increase. +1 WIL or STR.",
+    "page": 52,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 17\t Revitalizing Blessing. (1/round) Whenever you roll a 6 or higher on one or more healing",
+    "page": 52,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "die, the target may recover one Wound.\n\t\nSecondary Stat Increase. +1 INT or DEX.",
+    "page": 52,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 18\t Tier 9 Spells. You may now cast tier 9 spells and upcast spells at tier 9.",
+    "page": 52,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 19\t Epic Boon. Choose an Epic Boon (see pg. 23 of the GM's Guide).",
+    "page": 52,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 20\t Twilight Sage. +1 to any 2 of your stats. Your Lifebinding Spirit rolls twice as many dice.\n\t\nUpgraded Cantrips. Your cantrips grow stronger.",
+    "page": 52,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Assist Me, My Friend! Whenever you make your \nfirst melee attack each round, you may add your \nLifebinding Spirit’s damage to the attack.",
+    "page": 53,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Empowered Companion: Whenever you spend \nmana to call forth your Lifebinding Spirit, you cast \nit as if you spent 1 additional mana (ignoring the \ntypical spell tier restrictions). The maximum die \nsize is now a d20.",
+    "page": 53,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Guiding Spirit. When your Lifebinding Spirit rolls \na 6 or higher on its damage die, the target begins \nto glow with radiant light. The next attack against \nthat target has advantage.",
+    "page": 53,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Hasty Companion: +4 Reach for your Lifebinding \nSpirit. It can also act for free when summoned.",
+    "page": 53,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Illuminate Soul. Action: A creature within 6 \nspaces begins to glow with radiant light. For 1 \nRound, attacks against them are made with your",
+    "page": 53,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "choice of advantage or disadvantage. You may do \nthis WIL times per Safe Rest.",
+    "page": 53,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Light Bearer. Regain 1 use of Searing Light when \nyou roll Initiative (this expires if unspent at the end \nof combat).",
+    "page": 53,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Not Beyond MY Reach. You may target creatures \nwho have been dead less than 1 round for healing. \nFor every 10 HP a dead creature is healed this way, \nyou may have them recover 1 Wound instead (you \nmust heal at least 1 Wound to revive them).",
+    "page": 53,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Vengeful Spirit. Action: Your Lifebinding Spirit \nsacrifices itself to transform into a swirling vortex of \nradiant light. At the end of your turn, it damages all \nenemies within 3 spaces of you, ignoring armor and \ncover. This lasts for a number of rounds equal to the \nhealing charges left on the Lifebinding Spirit. This \neffect ends early if you summon your spirit again.",
+    "page": 53,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Serve. After spending a day tending to a sacred place or serving others during a Safe Rest, you may choose differ-",
+    "page": 53,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 3\t\nMerciful Healing. When an effect caused by you heals a Dying creature, they are healed for \ntwice as much. (1/round) Your Lifebinding Spirit can act for free while you are Dying.\n\t\nLife is Beautiful. Harmless and lovely creatures such as butterflies and humming birds are \nattracted to your presence and often follow you. Flowers bloom more vibrantly in your presence.",
+    "page": 54,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 7\t\nConduit of Light. When an effect caused by you would heal HP, you may expend 1 use of \nSearing Light to heal (or damage, ignoring armor) another target within 6 spaces of yourself \nfor the same amount.",
+    "page": 54,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 11\t Powerful Healer. (WIL times/Safe Rest) Whenever you would roll dice to heal damage, you",
+    "page": 54,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "may instead heal the max amount you could roll, or give that many temp HP.",
+    "page": 54,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 15\t Empowered Conduit. Your Conduit of Light may target 1 additional creature. Regain 1",
+    "page": 54,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "charge of Searing Light when you roll Initiative (this expires if unspent at the end of combat).",
+    "page": 54,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 3\t\nSoul Reaper. When you use Searing Light to harm an enemy, make a 2nd enemy within \nrange take the same amount of damage (ignoring armor).\n\t\nHarbinger of Decay. Vibrant colors and lovely smells are suppressed near you. Foods spoil \nmore rapidly in your presence, and you frequently awaken to flies wherever you lodge. You \nmay have your Lifebinding Spirit shift into a deathly version of itself (a zombie dog, a devious \nimp, etc.) and have its damage type become necrotic.",
+    "page": 54,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 7\t\nVeilwalker’s Blessing. (1/Safe Rest) Reaction (when you would drop to 0 HP): Drop to 1 \nHP instead and force an enemy within 6 spaces to make a STR save. On a failure, they become \nBloodied, or if they are already Bloodied, they drop to 0 HP.",
+    "page": 54,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 11\t Deathbringer’s Touch. Your first melee attack each round against a Bloodied creature is an",
+    "page": 54,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "automatic critical hit. Your Lifebinding Spirit deals additional damage equal to your STR.",
+    "page": 54,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 15\t Conduit of Death. Your Veilwalker’s Blessing ability recharges when you roll Initiative. This",
+    "page": 54,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "charge is lost if unspent at the end of combat.",
+    "page": 54,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "ust TRY and resist my charm… wait—NO, don’t! Each Songweaver holds a spark \ngranted to them by a muse at birth; a spark which fuels their creative energy and \nflows forth in the form of a sharp wit, relentless humor, or moving art.",
+    "page": 56,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "The power of a Songweaver’s spark is also evident in their powerful sway over others. \nSongweavers can bolster and infuse courage in their allies, or… make their enemies’ \nbrains leak out through their ears. The Songweaver can bring a whole new meaning \nto verbal abuse! They can even redirect the (often justified) attacks of others, in order \nto protect their own moneymakers. As a Songweaver, you can:",
+    "page": 56,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "•Charm the hapless people you meet and inspire your allies to reach fantastic new",
+    "page": 56,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "•Use your Lyrical Weaponry and powerful charisma to dominate enemies and call",
+    "page": 56,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "special friends to aid you in your journeys and battles. You can even redirect attacks \naway from yourself and make enemies attack their own allies!",
+    "page": 56,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "•Control the Battlefield with a chord of chaos, a rad heroic ballad, or a debilitating",
+    "page": 56,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "rhapsody; make your allies and enemies alike dance to your tune!",
+    "page": 56,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Key Stats: WIL, INT   Hit Die: 1d8   Starting HP: 13   \nSaves: WIL+, STR–   Armor: Cloth, Leather  Weapons: DEX, Wands",
+    "page": 57,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Starting Gear: Adventurer’s Garb, Instrument, Dagger, Mirror",
+    "page": 57,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 1\t\nWind Spellcasting and… You know cantrips from the Wind school and 1 other school of \nyour choice. You also know the cantrip Vicious Mockery:\n\t\nVicious Mockery. (Wind cantrip) Action: Range: 12. Damage: 1d4+INT psychic (ignoring armor). \nOn hit: the target is Taunted during their next turn. High Levels: +2 damage every 5 levels.\n\t\nSongweaver’s Inspiration. (2×WIL times/Safe Rest) Free Reaction: Allow an ally to reroll \na single die related to an attack or save (must keep either result).",
+    "page": 57,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 2\t\nMana and Unlock Tier 1 Spells. You unlock tier 1 spells in the schools you know and gain \na mana pool to cast them. This mana pool’s maximum is always equal to (INT×3)+LVL and \nrecharges on a Safe Rest.\n\t\nJack of All Trades. When you Safe Rest, you may move a skill point as if you just leveled up.\n\t\nSong of Rest. (1/ day) Whenever you Field Rest, you may play a song and allow anyone who \nspends Hit Dice to heal additional HP equal to your WIL.",
+    "page": 57,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 3\t\nSubclass. Choose a Songweaver subclass.\n\t\nQuick Wit. When you roll Initiative, you may regain 2 spent uses of your Songweaver’s \nInspiration (these expire at the end of combat if left unused).\n\t\nWindbag. Choose 1 Utility Spell from each spell school you know.",
+    "page": 57,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 4\t\nTier 2 Spells. You may now cast tier 2 spells and upcast spells at tier 2.\n\t\nKey Stat Increase. +1 WIL or INT.\n\t\nLyrical Weaponry. Choose 1 ability from the Lyrical Weaponry list.",
+    "page": 57,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Perform! Whenever you perform in a place that inspires you, or exchange barbs with another competent wordsmith \nduring a Safe Rest, you may choose different Songweaver options available to you.",
+    "page": 57,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 5\t\nA “People“ Person. You’ve met many people in your travels; some have even agreed to \ncome to your aid should you need it. Choose 2 friends you know: you can temporarily summon \nthem via song (1/Safe Rest each).\n\t\nUpgraded Cantrips. Your cantrips grow stronger.\n\t\nSecondary Stat Increase. +1 STR or DEX.",
+    "page": 58,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 6\t\nTier 3 Spells. You may now cast tier 3 spells and upcast spells at tier 3.\n\t\nWindbag (2). Choose a 2nd Utility Spell from each spell school you know.",
+    "page": 58,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 7\t\nSubclass. Gain your Songweaver subclass feature.",
+    "page": 58,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 8\t\nTier 4 Spells. You may now cast tier 4 spells and upcast spells at tier 4.\n\t\nKey Stat Increase. +1 WIL or INT.",
+    "page": 58,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 9\t\nLyrical Weaponry (2). Choose a 2nd ability from the Lyrical Weapons list.\n\t\nSecondary Stat Increase. +1 STR or DEX.",
+    "page": 58,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 10\t Tier 5 Spells. You may now cast tier 5 spells and upcast spells at tier 5.\n\t\nUpgraded Cantrips. Your cantrips grow stronger.",
+    "page": 58,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 11\t Subclass. Gain your Songweaver subclass feature.",
+    "page": 58,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 12\t Tier 6 Spells. You may now cast tier 6 spells and upcast spells at tier 6.\n\t\nKey Stat Increase. +1 WIL or INT.",
+    "page": 58,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 13\t Lyrical Weaponry (3). Choose a 3rd ability from the Lyrical Weapons list\n\t\nSecondary Stat Increase. +1 STR or DEX.",
+    "page": 58,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 14\t Tier 7 Spells. You may now cast tier 7 spells and upcast spells at tier 7.\n\t\nWindbag (3). You know all Utility Spells from the spell schools you know.",
+    "page": 58,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 15\t Subclass. Gain your Songweaver subclass feature.\n\t\nUpgraded Cantrips. Your cantrips grow stronger.",
+    "page": 58,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 16\t Tier 8 Spells. You may now cast tier 8 spells and upcast spells at tier 8.\n\t\nKey Stat Increase. +1 WIL or INT.",
+    "page": 58,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 17\t Lyrical Weaponry (4). Choose a 4th ability from the Lyrical Weapons list.\n\t\nSecondary Stat Increase. +1 STR or DEX.",
+    "page": 58,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 18\t Tier 9 Spells. You may now cast tier 9 spells and upcast spells at tier 9.",
+    "page": 58,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 19\t Epic Boon. Choose an Epic Boon (see pg. 23 of the GM's Guide).",
+    "page": 58,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 20\t I’m So Famous! +1 to any 2 of your stats. Your Songweaver’s Inspiration cannot fail (your",
+    "page": 58,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "target succeeds). \n\t\nUpgraded Cantrips. Your cantrips grow stronger.",
+    "page": 58,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Heroic Ballad. +2 max Songweaver’s Inspiration \ncharges. When used to reroll an ally’s attack, your \nSongweaver’s Inspiration also grants them +WIL \ndamage on the attack.",
+    "page": 59,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Inspiring Anthem. (1/encounter) Action: Grant all \nfriendly Dying creatures who can hear you 1 HP and \n1 action.",
+    "page": 59,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Not My Beautiful Faaace! (1/encounter) When you \nDefend, force the attacker to choose another target \nwithin range on a failed WIL save (if there is none, the \nattack fails). If they fail by 5 or more, they attack them-\nselves as punishment for even thinking they could \nharm you! On save, they attack you with disadvantage.",
+    "page": 59,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Rhapsody of the Normal. When you roll 4 or more \non your Vicious Mockery, you may spend a Songweav-\ner’s Inspiration charge to temporarily suppress any spe-\ncial abilities they have until the end of their next turn. \nThey can do only what an untrained average villager \ncan do, attack once for 1d4 damage and move up to \n6 spaces (no armor, spellcasting, flying, regeneration, \nother inherent or trained features).",
+    "page": 59,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Song of Domination. (1/encounter) 2 actions: Play a \nbewitching tune, and all enemies within 6 spaces who \nhear it must make a WIL save. If they fail, you move \nthem up to 6 spaces in any direction, and they cannot \nmove on their next turn.",
+    "page": 59,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Perform! Whenever you perform in a place that inspires you, or exchange barbs with another competent word-",
+    "page": 59,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "smith during a Safe Rest, you may choose different Songweaver options available to you.",
+    "page": 59,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Stompy. 3 actions: Summon a huge hill giant for 1 \nround. As he enters the battlefield adjacent to you, use \nStompy’s Stomp: Make a DC 10 Influence check. \nOn a success, he moves 6 spaces in a direction you \nchoose; on a failure, he moves towards YOU instead \n(\"YOU NOT FRIEND!\"). He deals everything in his path \ndamage equal to LVL+Influence check. ANY creature \nwithin 6 spaces of Stompy can use this ability once \ninstead of an attack.",
+    "page": 59,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Mal, the Malevolent Imp. Summon a tiny fiend for \n1 night. He can find out dangerous information you",
+    "page": 59,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "have no right to know! Or “take care” of a problem \nwith only the slightest chance of things going wrong. \nMake an Influence check to convince him to help you",
+    "page": 59,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "(advantage if you ask him to do something he would \nfind mischievous or fun; with disadvantage if it is some-\nthing he would find good or menial).",
+    "page": 59,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Gran Gran (NOT a hag). When resting, you may \nsummon her for 1 hour to soothe your wounds (and \nhassle you for not eating enough). She bakes and \nhands out pastries equal to your WIL+INT. Eating one \nrecovers one mana, Hit Die, or Wound. Eat them while \nthey’re warm! They expire in 10 minutes.",
+    "page": 59,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Linos, the Everfriendly. Summon a legendary \nflying (but friendly) creature to take you and your party \nwherever you need to go. He may request a very large \namount of food as payment.",
+    "page": 59,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Flavor is Free. If you’d rather have a more traditional bard type—a keeper of ancient legends—instead of people you \nknow, the characters above can be reflavored as famous legends from history that you can magically summon via \nsong. Feel free to work with your GM to make it happen. As long as the mechanics stay roughly the same, have fun!",
+    "page": 59,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 3\t\nOpportunistic Snark. Reaction (when an enemy within Range 12 misses an attack): You \nmay cast Vicious Mockery at them; it deals double damage when cast this way.",
+    "page": 60,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 7\t\nFight Picker. (1/turn) When an enemy is damaged by your Vicious Mockery, you may have \none of your allies Taunt them until the end of the enemy’s turn instead.",
+    "page": 60,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 11\t Chord of Chaos. (1/encounter) Action: You may move ALL creatures within hearing of your",
+    "page": 60,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "song up to 3 spaces as long as they do not move into an obviously dangerous place.",
+    "page": 60,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 15\t Words Like Swords. Your Vicious Mockery damage becomes 1d6+INT+ WIL.",
+    "page": 60,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 3\t\nInspiring Presence. Whenever you use Songweaver’s Inspiration, your allies within 12 \nspaces who can hear you gain WIL temp HP.",
+    "page": 60,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 7\t\nUnfailing Courage. Your presence inspires others to feats of heroism and courage heard of \nonly in legend. Your Songweaver’s Inspiration allows your target to roll with advantage.",
+    "page": 60,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 11\t Fire in my Bones. Your Songweaver’s Inspiration also grants your target 1 additional action.",
+    "page": 60,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 15\t Chorus of Champions. (1/encounter) Free Reaction: Give all party members 1 action.",
+    "page": 60,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Making Your Own People. You can work with your GM to swap out Stompy, Gran Gran, \nMal, and Linos for your own creations if you like. 1 in-combat person whose damage scales \nwith your level (see other spells and abilities for appropriate amounts of damage or other \neffects), 1 out-of-combat support person, 1 who can help in narrative situations, and 1 who \ncan give sporadic utility. Follow that broad pattern and you'll be fine!",
+    "page": 60,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "If you find yourself never wanting to use one, make it slightly stronger; if you're using it too \nfrequently, consider bringing the power level down slightly or adding some other drawback.",
+    "page": 60,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "he trees whisper their excitement, the clouds sing with glee. Rejoice! The \nMaster of Storm & Fang arrives. All who would seek passage through the \nancient grove, heed this warning: Do not provoke the forest or its inhabi-\ntants. Beseech for passage humbly, even if its guardian is unseen, rest assured that \nyou… are not.",
+    "page": 62,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Those who traverse the woodlands may feel the vigilant gaze of a Stormshifter upon \nthem. Legend speaks of an ancient union between mortal and dryad, birthing beings \ncapable of wielding lightning and tempests as others wield blade and shield. This is \nbut half the tale.",
+    "page": 62,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Wanderers recount encounters with beings, some wise and benevolent, others fear-\nsome, with claws that sparked with lightning and pelts sharp as daggers. They are as \none with storm and beast, embodying the serene beauty and raw power of nature’s \ngrace. As a Stormshifter, you can:",
+    "page": 62,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "•Aid your allies in whatever role is most needed.",
+    "page": 62,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "•Wade into the fray as a shapeshifted beast ranging from friendly to vicious,",
+    "page": 62,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "•Cast powerful spells from a distance to strike down, control, mend, and more.",
+    "page": 62,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Key Stats: WIL, DEX   Hit Die: 1d8   Starting HP: 13\nSaves: WIL+, STR–   Armor: Cloth or Leather Armor   Weapons: Staves, Wands",
+    "page": 63,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Starting Gear: Cheap Hides, Staff, Strange Plant",
+    "page": 63,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 1\t\nMaster of Storms. You know cantrips from the Lightning and Wind schools.\n\t\nBeastshift. Action: You can transform into a harmless beast (squirrel, pigeon, etc.). While \ntransformed, you can speak with animals. This form lasts until you drop to 0 HP, cast a spell, \nor if you end it on your turn for free. You have DEX Beastshift charges; they reset on a Safe Rest.",
+    "page": 63,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Tiny Beasts. Whenever you shapeshift into a Tiny beast, attacks against you are made with disadvantage, but ANY \ndamage ends that shapeshift form.",
+    "page": 63,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 2\t\nDirebeast Form. You can Beastshift into a Fearsome Beast. \n\t\nMana and Unlock Tier 1 Spells. You unlock tier 1 Wind and Lightning spells and gain a \nmana pool to cast these spells. This mana pool’s maximum is always equal to (WIL×3)+LVL \nand recharges on a Safe Rest.",
+    "page": 63,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 3\t\nSubclass. Choose a Stormshifter subclass.\n\t\nDirebeast Form (2). You can Beastshift into a Beast of the Pack.",
+    "page": 63,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 4\t\nTier 2 Spells. You may now cast tier 2 spells and upcast spells at tier 2.\n\t\nKey Stat Increase. +1 WIL or DEX.\n\t\nStormcaller. Learn a Utility Spell from each spell school you know.",
+    "page": 63,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Be Wild. Whenever you spend a day with wild animals during a Safe Rest, you may choose different Stormshifter \noptions available to you.",
+    "page": 63,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 5\t\nDirebeast Form (3). You can Beastshift into a Beast of Nightmares.\n\t\nUpgraded Cantrips. Your cantrips grow stronger.\n\t\nSecondary Stat Increase. +1 STR or INT.",
+    "page": 63,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 6\t\nChimeric Boon. Choose 2 Chimeric Boons. Whenever you shapeshift into a Direbeast form, \nyou may modify it with 1 Chimeric Boon you know. \n\t\nExpert Shifter. Gain 1 additional use of Beastshift per Safe Rest.\n\t\nTier 3 Spells. You may now cast tier 3 spells and upcast spells at tier 3.",
+    "page": 64,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 7\t\nSubclass. Gain your Stormshifter subclass feature.\n\t\nStormcaller (2). Learn a 2nd Utility Spell from each spell school you know.",
+    "page": 64,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 8\t\nTier 4 Spells. You may now cast tier 4 spells and upcast spells at tier 4.\n\t\nKey Stat Increase. +1 WIL or DEX.\n\t\nStormborn. Gain resistance to lightning damage. (1/day) You may gain advantage on a \nNaturecraft check or Concentration check.",
+    "page": 64,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 9\t\nChimeric Boon (2). Choose a 3rd Chimeric Boon.\n\t\nExpert Shifter (2). Gain 1 additional use of Beastshift per Safe Rest.\n\t\nSecondary Stat Increase. +1 STR or INT.",
+    "page": 64,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 10\t Tier 5 Spells. You may now cast tier 5 spells and upcast spells at tier 5.\n\t\nUpgraded Cantrips. Your cantrips grow stronger.",
+    "page": 64,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 11\t Subclass. Gain your Stormshifter subclass feature.",
+    "page": 64,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 12\t Tier 6 Spells. You may now cast tier 6 spells and upcast spells at tier 6.\n\t\nKey Stat Increase. +1 WIL or DEX.\n\t\nChimeric Boon (3). Select a 4th Chimeric Boon.\n\t\nExpert Shifter (3). Gain 1 additional use of Beastshift per Safe Rest.",
+    "page": 64,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 13\t Secondary Stat Increase. +1 STR or INT.\n\t\nStormborn (2). Instead of rolling dice, deal the max damage of a Wind spell by spending a \ncharge of your Beastshift feature. Whenever you end Beastshift, you may cast a cantrip for free.",
+    "page": 64,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 14\t Tier 7 Spells. You may now cast tier 7 spells and upcast spells at tier 7.",
+    "page": 64,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 15\t Subclass. Gain your Stormshifter subclass feature.\n\t\nUpgraded Cantrips. Your cantrips grow stronger.",
+    "page": 64,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 16\t Tier 8 Spells. You may now cast tier 8 spells and upcast spells at tier 8.\n\t\nKey Stat Increase. +1 WIL or DEX.",
+    "page": 64,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 17\t Chimeric Boon (4). Select a 5th Chimeric Boon.\n\t\nSecondary Stat Increase. +1 STR or INT.",
+    "page": 64,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 18\t Tier 9 Spells. You may now cast tier 9 spells and upcast spells at tier 9.",
+    "page": 64,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 19\t Epic Boon. Choose an Epic Boon (see pg. 23 of the GM's Guide).",
+    "page": 64,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 20\t Archdruid. +1 to any 2 of your stats. (1/encounter) Cast a spell up to tier 4 for free when you",
+    "page": 64,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "enter or leave a Beastshift form.\n\t\nUpgraded Cantrips. Your cantrips grow stronger.",
+    "page": 64,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "FEARSOME BEAST \n(Large). Transform into any Large beast. Gain DEX+LVL temp HP (until Beastshift ends), \nthe Gore attack, and Fearsome. Gore. Action: 1d6+LVL damage, on hit: Gain LVL temp HP. \nFearsome. Whenever you Interpose or Defend, you may spend 1 mana to force them to reroll \nthe attack (you must choose either result).",
+    "page": 65,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "BEAST OF THE PACK \n(Medium). Transform into a Medium beast. Gain +DEX speed, Supercharge, and the Thun-\nderfang attack. Whenever you crit or kill one or more enemies, Thunderfang gains a cumulative \n+1d4 lightning damage until combat ends. Thunderfang. Action: 1d4+LVL piercing damage.",
+    "page": 65,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Supercharge. Spend up to WIL mana, and your next Thunderfang attack deals an additional \n1d8 lightning damage per mana spent (you take this damage on a miss).",
+    "page": 65,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "BEAST OF NIGHTMARES\n(Tiny). Transform into any Tiny beast or insect (provided it is horrible). Gain the Sting attack \nand Silent But Deadly. Sting. (1/round) Action: Reach: 0. 1d4 piercing + 3×LVL acid damage \n(ignoring armor), on crit: 4×LVL damage instead. Silent But Deadly. Speed: 2. You cannot \nDefend or Interpose. Attackers cannot target you until you become conspicuous (e.g., being \nseen transforming or attacking).",
+    "page": 65,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Tiny Beasts. Whenever you shapeshift into a Tiny beast (Beast of Nightmares included), attacks against you are made \nwith disadvantage, but ANY damage ends that shapeshift form.",
+    "page": 65,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "CHIMERIC  BOONS\nBeast of the Sea. Can move, breathe, and fight \nunderwater without penalty.\nClimber. Can walk across walls and ceilings; ignores \ndifficult terrain.\nFleet Footed. +2 speed. Advantage on Stealth \nchecks and against the Grappled condition.\nEarthwalker. +2 armor. Can burrow through dirt \nand unworked rock at half speed (leaving a tunnel \nbehind). Advantage against the Prone condition. \nKeen Senses. Advantage on Perception and Assess \nchecks. Unaffected by Blinded.",
+    "page": 65,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Leader of the Pack. Advantage against fear and \ncharm effects for yourself and allies within 6 spaces.\nPhasebeast. Whenever you shift between this form \nand your normal form (and vice versa), you may tele-\nport up to 6 spaces away to a place you can see.\nPrehensile Tail. Creatures you hit in melee that are \nyour size or smaller are Grappled. If you hit a larger \ncreature, you may move with it when it moves.\nWinged. Gain a flying speed. Forced movement \nmoves you twice as far while flying.",
+    "page": 65,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Be Wild. Whenever you spend a day with wild animals during a Safe Rest, you may choose different Stormshifter",
+    "page": 65,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 3\t\nDeepening Study. Choose the Ice or Radiant school to learn.\n\t\nCreature of the Fey. You may cast spells while Beastshifted.\n\t\nAttuned to Nature. (1/day) Add LVL to any skill check related to nature or weather.",
+    "page": 66,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 7\t\nRaging Tempest. Whenever you crit with a tiered spell, you may cast a cantrip for free from a \nschool you know and haven’t cast any spells from this turn (at the same level of dis/advantage).",
+    "page": 66,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 11\t Primordial Force. Spending 2+ mana on a spell grants an additional effect:",
+    "page": 66,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "• Ice. Gain WIL temp HP.\n\t• Lightning. Deal additional damage equal to your WIL. \n\t• Radiant. You may heal a creature within 6 spaces WIL HP.\n\t• Wind. Gain a flying speed this turn. Move up to 6 spaces for free.",
+    "page": 66,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 15\t Master of Storm. You can concentrate on 1 lightning spell and 1 wind spell at the same time.",
+    "page": 66,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "(1/Safe Rest) You can cast Ride the Lightning for 0 mana.",
+    "page": 66,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 3\t\nSwiftshift. When you roll Initiative, you may Beastshift or move for free. While transformed, \nyou may shift between different Direbeast forms for free (and as a reaction by spending 1 \nmana); however, Beastshifting for free does not grant any temp HP.\n\t\nWindborne Protector. (1/encounter) Reaction: when an enemy attacks, spend 2 mana to \nshift into a Fearsome Beast. Then you may Interpose from up to 12 spaces away and Defend \nfor free (if you have not yet done so this round).\n\t\nFriend of Beasts. Beasts will not attack you until you first harm them. You may transform \ninto harmless beasts without spending a Beastshift charge.",
+    "page": 66,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 7\t\nUnleash the Beast. (1/encounter) When you miss, you can crit instead.\n\t\nStorm Wake. (1/encounter) Action: Spend 3 mana to shift into a Beast of the Pack, then \nteleport in a straight line up to 12 spaces away, unerringly dealing WIL d8 lightning damage \nto any creatures you choose adjacent to your path.",
+    "page": 66,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 11\t Master of Forms. Your shapeshift forms can have 2 Chimeric Boons at a time.\n\t\nVenomous Gaze. (1/encounter) Action: Spend 2 mana to shift into a Beast of Nightmares. \nThen entice a creature within 12 spaces to move 2×WIL spaces closer to you on a failed WIL \nsave (they roll with disadvantage and must repeat until they save or can move no further). If \nthey end up in the same space as you, you may Sting them for free.",
+    "page": 66,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 15\t Master of Forms (2). You can Beastshift 2 additional times per Safe Rest. Choose 2 additional",
+    "page": 66,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Chimeric Boons. Your Direbeast forms can have 3 at a time.",
+    "page": 66,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Zephyr dedicates their life to the relentless pursuit of kinetic perfection. \nThey hone their bodies into blurs of motion, training from a young age in \nremote wilds or mountain monasteries, wielding speed to unleash blows \nthat echo through their foes and slip past attacks like a whispering wind. Speed is \nboth their weapon and shield.",
+    "page": 68,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Through ceaseless training, they harness their inner momentum to achieve feats of \nsupernatural agility, executing every motion with flowing precision. The Zephyr is:",
+    "page": 68,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "•\t Unarmed and Dangerous. When unarmed and unarmored, you’re a relentless",
+    "page": 68,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "force on the battlefield. Absorb blows and deliver devastating strikes, leaving foes \nin awe of your tenacity and speed.\n•\t A Graceful Combatant. Move with unparalleled speed and determination,",
+    "page": 68,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "outpacing your allies and foes alike. Seize the initiative and strike swiftly, ensuring \nyou’re always at the forefront of combat. Your reflexes allow you to retaliate with \nprecision and turn enemy strikes into opportunities for devastating counterattacks.",
+    "page": 68,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Key Stats: DEX, STR   Hit Die: 1d8   Starting HP: 13   \nSaves: DEX+, INT–   Armor: None  Weapons: Melee",
+    "page": 69,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Starting Gear: Staff, Traveling Robes & Sandals",
+    "page": 69,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 1\t\nIron Defense. Your armor equals DEX+STR as long as you are unarmored.\n\t\nSwift Fists. Your unarmed strikes are not subject to disadvantage imposed by Rushed Attacks",
+    "page": 69,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "(see pg. 13 of the Core Rules), and their damage is 1d4+STR.",
+    "page": 69,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 2\t\nSwift Feet. While unarmored, gain +2 speed and +LVL Initiative.\n\t\nBurst of Speed. When you roll Initiative, gain DEX Bursts of Speed to use during that encounter.",
+    "page": 69,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "(1/turn) You may spend 1 Burst of Speed to use any of the following maneuvers for free:",
+    "page": 69,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "• Slipstream. Defend, and the attack misses.\n\t• Whirling Defense. Defend and apply your armor to every attack this round.\n\t• Swiftstrike. Attack on your turn, and ignore disadvantage from Rushed Attacks.\n\t• Windstep. Move on your turn, ignoring difficult terrain.",
+    "page": 69,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 3\t\nSubclass. Choose a Zephyr subclass.\n\t\nKinetic Momentum. Whenever you gain a Wound, gain a Burst of Speed.\n\t\nEthereal Projection. (1/day) By meditating for at least 10 minutes, you can project an \nethereal version of yourself up to 30 ft. away, passing through solid objects or barriers. You \nsee through your projection’s eyes, and it is visible to other creatures as a translucent version \nof yourself. It cannot interact physically with the environment but can move freely within the \ndistance limit and lasts for up to 10 minutes.",
+    "page": 69,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 4\t\nUnyielding Resolve. Ignore the first Wound you would suffer each encounter (when-\nWounded abilities, such as Kinetic Momentum, still trigger). \n\t\nKey Stat Increase. +1 DEX or STR.\n\t\nMartial Master. Choose a Martial Arts ability.",
+    "page": 69,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Focus. Whenever you spend time meditating alone in a windy place during a Safe Rest, you may choose different \nZephyr options available to you.",
+    "page": 69,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 5\t\nReverberating Strikes. You learn to focus your energy and transfer it as an additional \nconcussive force into your foes. Add LVL bludgeoning damage to all of your melee attacks. \nSecondary Stat Increase. +1 INT or WIL.",
+    "page": 70,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 6\t\nMartial Master (2). Choose a 2nd Martial Arts Ability. \n\t\nInfuse Strength. Action: Make an unarmed strike against an ally and infuse them with a \nportion of your own strength instead of harming them. Expend any number of Hit Dice and \nheal them as you would heal yourself during a Field Rest (roll them and add your STR to each).",
+    "page": 70,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 7\t\nSubclass. Gain your Zephyr subclass feature.",
+    "page": 70,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 8\t\nMartial Master (3). Choose a 3rd Martial Arts Ability.\n\t\nKey Stat Increase. +1 DEX or STR.",
+    "page": 70,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 9\t\nSwift Feet (2). Gain an additional +2 speed as long as you are unarmored.\n\t\nSecondary Stat Increase. +1 INT or WIL.",
+    "page": 70,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 10\t Martial Master (4). Choose a 4th Martial Arts Ability. \n\t\nUnyielding Resolve (2). Ignore the first 2 Wounds you would suffer each encounter.",
+    "page": 70,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 11\t Subclass. Gain your Zephyr subclass feature.",
+    "page": 70,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 12\t Martial Master (5). Choose a 5th Martial Arts Ability.\n\t\nKey Stat Increase. +1 DEX or STR.",
+    "page": 70,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 13\t Iron Defense (2). Your armor is doubled while unarmored.\n\t\nSecondary Stat Increase. +1 INT or WIL.",
+    "page": 70,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 14\t Martial Master (6). Choose a 6th Martial Arts Ability.",
+    "page": 70,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 15\t Subclass. Gain your Zephyr subclass feature.",
+    "page": 70,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 16\t Martial Master (7). Choose a 7th Martial Arts Ability.\n\t\nKey Stat Increase. +1 DEX or STR.",
+    "page": 70,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 17\t Unyielding Resolve (3). Ignore the first 3 Wounds you would suffer each encounter. You",
+    "page": 70,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "have advantage on STR saves while Dying.\n\t\nSecondary Stat Increase. +1 INT or WIL.",
+    "page": 70,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 18\t Martial Master (8). Choose an 8th Martial Arts Ability.",
+    "page": 70,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 19\t Epic Boon. Choose an Epic Boon (see pg. 23 of the GM's Guide).",
+    "page": 70,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 20\t Windborne. +1 to any 2 of your stats. +1 additional burst of speed when you roll Initiative.",
+    "page": 70,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Permanently gain 1 action (while Dying, you have a max of 2 actions).",
+    "page": 70,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Airshift. You cannot be Grappled while conscious. \nWhile moving, you may travel across all terrain as \nnormal ground, ignoring all ill effects (e.g., walls/\nceilings, water, treetops, lava, spikes, clouds).",
+    "page": 71,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Blur. (1/encounter) When you Defend, you may first \nmove up to half your speed away, taking no damage \nif you are now out of range or have Full Cover.",
+    "page": 71,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Bodily Discipline. You may spend 1 action to end \nany non-Wound condition on yourself.",
+    "page": 71,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Enduring Soul. Each time you roll Initiative, gain \nHit Dice equal to the actions you get on your first turn. \nThese Hit Dice expire at the end of combat if unused.",
+    "page": 71,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "I Jump On His Back! While moving with your \nWindstep, if you move into the space of a creature \nyour size or larger, you may jump onto its back. \nWhile on a creature this way, gain advantage on \nmelee attacks against it, and any damage you avoid \nis dealt to it instead.",
+    "page": 71,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Kinetic Barrage. Whenever you miss an attack, \ngain a cumulative +STR bonus to all damage you do",
+    "page": 71,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "for the rest of this encounter (a disciplined martial \nartist does not miss on purpose).",
+    "page": 71,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Mighty Soul. You cannot be moved against your \nwill. Whenever you would fail a saving throw, you \nmay gain a Wound in order to add your STR to the \nresult you rolled. You may repeat this any number \nof times.",
+    "page": 71,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Quickstrike. When you Interpose, you may first \nmake an unarmed strike against the enemy for free.",
+    "page": 71,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Use Momentum. Whenever you avoid all of the \ndamage of a melee attack (whether it misses or you \nDefend), you may swap places with the attacker and \nthen choose another target that is now within the \nattack’s reach, and they are hit instead.",
+    "page": 71,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Vital Rejuvenation. When you receive healing for \nthe first time on a turn, you may heal another target \nwithin 6 spaces HP equal to your STR.",
+    "page": 71,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Windstrider. If you move through the space of \na willing creature while using Windstep, they can \nmove with you and choose any space adjacent to \nyour path of movement to end in.",
+    "page": 71,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Focus. Whenever you spend time meditating alone in a windy place during a Safe Rest, you may choose different",
+    "page": 71,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 3\t\nBring the Pain. (1/round) You may turn any melee attack against you into a crit. Whenever \nyou are crit, reduce the damage by half. The attacker takes the same amount of damage you \ntook (ignoring armor). You may suffer 1 Wound to double the damage the enemy takes.",
+    "page": 72,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 7\t\nShare My Pain. Your Swiftstrike can also target a 2nd creature within Reach 2.",
+    "page": 72,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 11\t Pain Sharpens the Mind. While you are Bloodied, gain advantage on the first attack",
+    "page": 72,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 15\t Echoed Agony. Your Swiftstrike can also target a 3rd creature within Reach 4.",
+    "page": 72,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 3\t\nExploding Soul. (1/round) On your turn, you may suffer a Wound. Whenever you gain a \nWound, deal STR+Wounds damage to any creatures you choose within 2 spaces (ignoring \narmor) and give them the Smoldering condition.",
+    "page": 72,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 7 \t Blazing Speed. Gain +2 speed while using Windstep. After you cease movement",
+    "page": 72,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "with Windstep, enemies you passed through take STR+DEX fire damage. You may have \nSmoldering enemies take double, ending the condition.",
+    "page": 72,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 11 \t Chain Reaction. (1/turn) When you crit, deal fire damage equal to your STR+Wounds",
+    "page": 72,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "to creatures of your choice within 2 spaces of your target. Repeat any number of times, \ntargeting creatures not yet damaged by this effect within 2 spaces of any already damaged.",
+    "page": 72,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 15 \t Burning Soul. Double any fire damage you deal.",
+    "page": 72,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Sometimes the story you play takes a dramatic turn: all but \none party member dies, your Patron betrays you, you save \nthe life of a beast that now refuses to leave your side…",
+    "page": 74,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "These moments may call for an equally dramatic shift in \nthe class you’re playing, thus the story-based subclasses. \nGenerally, these are not appropriate to pick at level 1. At \nyour GM’s discretion, these can be chosen at any point \nin a campaign when a story demands it, replacing your \nexisting subclass.",
+    "page": 74,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "These classes may be a bit more mechanically involved \nand better suited for more experienced players, but \nthese subclasses are NOT more powerful than others, \njust different.",
+    "page": 74,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Dark Benediction. Fallen from the light, but not entirely. You lose access to the following Radiant \nspells: True Strike, Heal, and Warding Bond; and gain access to the following Necrotic spells: Entice, \nShadowtrap, and Dread Visage. Whenever you can choose a Utility Spell, you may choose a Radiant \nor Necrotic one.",
+    "page": 76,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Paragon of Power. (Replaces Paragon of Virtue) Advantage on Might checks when attempting \nto intimidate others.",
+    "page": 76,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Aura of Suffering. You gain an aura with a Reach of 4 and can Interpose for an ally anywhere within \nyour aura; however, your Radiant Judgment ability no longer triggers when attacked. Instead, it \ntriggers whenever you could Interpose but don’t.",
+    "page": 76,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 3\t\nWe All Suffer. Gain +2 max Wounds. When an ally within your aura would gain \nany Wounds or fail a save, you may suffer the effect instead and trigger your Radiant \nJudgment ability. \n\t\nBring Me Your Pain. Reaction (When a willing ally within your aura would drop to 0 \nHP): Switch HP with them (if your current HP is higher than their max HP, they gain Temp \nHP equal to the difference), dropping to 0 hp and gaining the Wound instead.\nLEVEL 7\t\nTorment. Your Lay on Hands heals you for twice as much, and others for half as much. \nWhen you deal damage, you can expend healing power from your Lay on Hands pool \nto increase the damage dealt by an amount equal to the points spent (ignoring armor).\nLEVEL 11\t Exploit. Reaction (whenever an ally within your aura Defends), you may expend your",
+    "page": 76,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Judgment Dice to force an enemy within your Aura to Interpose (a creature cannot",
+    "page": 76,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "interpose against its own attack). \nLEVEL 15\t Bloody Terror. Attacks against you gain 1 instance of disadvantage for each Wound",
+    "page": 76,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Arcane Command. Your focus on the arcane causes you to lose access to Weapon Mastery and \nCombat Tactics, but you now gain INT mana when you roll Initiative (this mana is lost if unspent when \ncombat ends). Whenever you could choose a Combat Tactic or Weapon Mastery, instead choose another \nCommander’s Order or a tier 1 (or lower) spell from any spell school. Your Commander’s Orders are \nalso empowered with magical power:",
+    "page": 78,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "•\t Face Me! (Glimmering Decree). Reaction (after an ally within 12 spaces is crit): That enemy",
+    "page": 78,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "takes STR d8 radiant damage (ignoring armor), is pulled up to 4 spaces toward you, and is Taunted \nby you until you drop to 0 HP.",
+    "page": 78,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "•\t Move it! Move it! (Borne upon the Wind). When you roll Initiative, you may give yourself",
+    "page": 78,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "and an ally advantage on the roll, +3 speed, and the ability to fly for 1 round. Then, you both can \nalso move for free.",
+    "page": 78,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "•\t Hold the Line! (Crystalline Armor). (1/encounter) Reaction (when an ally drops to 0 HP):",
+    "page": 78,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Command them to continue the fight! Set their HP to 3× your LVL. Additionally, they gain that \nmany temp HP. Enemies who reduce this temp HP in melee have their speed halved until the end \nof their next turn.",
+    "page": 78,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "•\t Reposition! (Flashstep). Action/Reaction (on an ally’s turn): Command 1 ally to move up to",
+    "page": 78,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "their speed (or 2 allies up to half their speed) for free. You may exchange places with one of them.",
+    "page": 78,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "•\t I Can Do This ALL DAY! (Rising Phoenix). (1/encounter) Reaction, (when you would drop to",
+    "page": 78,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "0 HP): You may expend any number of Hit Dice, set your HP to the sum rolled instead, and deal \nthat much fire damage to each enemy within 2 spaces of you. They gain the Smoldering condition.",
+    "page": 78,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "•\t Coordinated Strike! (Withering Strike). Any attacks made this way deal additional Necrotic",
+    "page": 78,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "damage equal to the max value of your Combat Die. An enemy damaged this way is considered \nundead for 1 round.",
+    "page": 78,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 3 \t\nFirebrand. When you roll Initiative you may cast Enchant Weapon for free (can be upcast  \nas normal by spending additional mana).\n\t\nDeep Knowledge (1). Choose any tier 1 (or lower) spell and any Utility Spell.\nLEVEL 7\t\nDeep Knowledge (2). Choose any tier 2 (or lower) spell and any Utility Spell. \nLEVEL 11\t Deep Knowledge (3). Choose any tier 3 (or lower) spell and any Utility Spell. \nLEVEL 15\t Deep Knowledge (4). Choose any tier 4 (or lower) spell and any Utility Spell.",
+    "page": 78,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Hollow One. Cut off from your patron, you can no longer cast Shadow Blast and you can no longer cast \ntiered spells using Pilfered Power. However, as a parting token, you have stolen a secret from your patron: \nThe magical Bonescythe, a weapon of sinew and bone, infused with shadowy magic.",
+    "page": 80,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Bonescythe. Action: Summon a magical Bonescythe, a melee weapon: 2d12 slashing+DEX necrotic \ndamage to each die (Reach: 2). It shatters after you hit with it (or when combat ends). Any Invocations \naffecting Shadow Blast affect your Bonescythe Instead.",
+    "page": 80,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "High Levels. Every 5 levels, add 1 extra damage die (Level 5: 3d12, Level 10: 4d12, etc.).",
+    "page": 80,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 3\t\nShadow Exploit. Sacrifice a shadow minion to cast a spell at the highest tier you have unlocked. \nEach subsequent spell you cast in this encounter costs 1 additional minion.\n\t\nMartyr Spawn. Whenever you Defend, you can sacrifice a shadow minion to take no damage.",
+    "page": 80,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 7\t\nGrim Harrow. When you strike with your Bonescythe, you may divide the dice as you choose \namongst any number of adjacent targets within Reach.\n\t\nReap. When your Bonescythe crits, or kills a creature, summon a shadow minion for free.",
+    "page": 80,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 11\t My Blood, My Power. You may take 1 Wound to cast a tiered spell you know at the highest",
+    "page": 80,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "tier you have unlocked.\n\t\nOtherworldly Might. Advantage on concentration checks if you have any shadow minions.",
+    "page": 80,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LEVEL 15\t I’m the Patron Now! Summon 2 shadow minions for free when you roll Initiative.",
+    "page": 80,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Beastmaster. Choose a Small, Medium, or Large animal as your companion. Instead of your first 2 Thrill of the \nHunt (TotH) abilities, you can select Go for the Throat! and Protect Me! to use with your companion.",
+    "page": 82,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "No Stats or Actions to Track! Your companion’s HP and movement are abstracted; it knows where it is most needed \nwithout being told—whether defending you or attacking your quarry. It is smart enough, and you are caring enough, \nto make sure it is never put in mortal danger.",
+    "page": 82,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Extra Abilities? At the GM’s discretion, your companion can also do anything the base animal can do: fly, sniff out \nscents, be used as a mount, etc. Even more complex actions like Grapple or Help may be doable if it makes sense \n(you’ll need to spend 1 action to command it though—it isn’t smart enough to do so on its own).",
+    "page": 82,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "SMALL COMPANION (Cat, Bat, Hawk, Raccoon, Rooster, Ferret, etc.)\n\t• Keen Eyes. (1/encounter) Mark a target for free. Level 7. 2/encounter.  Level 11. 3/encounter.\n\t• Protect me! (1/encounter) Whenever you Defend, your companion distracts the attacker, causing the",
+    "page": 82,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "attack to miss, and you move up to half your speed away. Level 7. 2/encounter.\n\t• Go for the Throat! (1/encounter) Costs 1 TotH charge: Your companion attacks your quarry for 1d4+LVL",
+    "page": 82,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "damage for free (ignoring armor). Level 11. 2/encounter, 1/round. Level 15. 3/encounter, 1/round.",
+    "page": 82,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "MEDIUM COMPANION (Wolf, Boar, Panther, Vulture, Giant Spider, etc.) Req. Level 3.\n\t• Ferocious. Whenever you or your companion crit your quarry, your companion attacks again for LVL",
+    "page": 82,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "damage (ignoring armor), and you can move up to 2 spaces for free. Level 7. 4 spaces. Level 15. 6 spaces.\n\t• Protect me! When you Defend, your companion may first attack that creature for 1d4+LVL damage.\n\t• Go for the Throat! (1/encounter) Costs 1 TotH charge, action: Your companion attacks your quarry, for",
+    "page": 82,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "1d8+(3×LVL) damage (ignoring armor). Level 11. 2/encounter.",
+    "page": 82,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "LARGE COMPANION (Lion, Owlbear, Elk, Giant Scorpion, Drake, etc.) Req. Level 3.\n\t• Alpha Protector. Damage from the first attack against you each round is halved.\n\t• Protect me! (1/encounter) After you gain a Wound, your companion can whisk you away to safety up to",
+    "page": 82,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "12 spaces. Level 7. You are whisked away before gaining the Wound. Level 15. 2/encounter.\n\t• Go for the Throat! (1/encounter) Costs 2 TotH charges, 2 actions: Your companion attacks your quarry",
+    "page": 82,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "for 1d12+(4×LVL) damage (ignoring armor). If that creature dies, you may deal half as much to another \ncreature within Reach 4. Level 11. 2/encounter.",
+    "page": 82,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Note. Your companion’s attacks count as your own for gaining TotH charges. Abilities that spend TotH charges cannot \nmiss nor can they generate new charges. Unused charges are lost when combat ends.",
+    "page": 82,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Get more out of Nimble with free resources online! Download character sheets, \npremade heroes, how-to videos, and tools to streamline your game.",
+    "page": 83,
+    "source": "Heroes-2.0.1.pdf"
+  },
+  {
+    "text": "Want More? New content is on the way! Expand your world with upcoming \nclasses like the Witch, Artificer, and Psion, dive into fresh adventures, new mon-\nsters, items, spells schools, and explore even more options to customize your \ngame. Find it all at NimbleRPG.com",
+    "page": 83,
+    "source": "Heroes-2.0.1.pdf"
+  }
+]
