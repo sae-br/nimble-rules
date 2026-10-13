@@ -6,9 +6,9 @@ Jinja2==3.1.6
 markdown-it-py==3.0.0
 MarkupSafe==3.0.2
 mdurl==0.1.2
-Pygments==2.19.1
+Pygments==2.20.0
 PyMuPDF==1.25.5
 RapidFuzz==3.13.0
 rich==14.0.0
-Werkzeug==3.1.6
+Werkzeug==3.1.9
 waitress==3.0.1
